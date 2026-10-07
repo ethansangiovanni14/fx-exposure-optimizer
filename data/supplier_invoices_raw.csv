@@ -1,0 +1,1501 @@
+Invoice_ID,Supplier_ID,Supplier_Name,Department,Category,Invoice_Date,Due_Date,Currency,Invoice_Amount_Local,Record_Status
+INV-01405,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-03-22,2025-04-21,JPY,2257539.24,Historical
+INV-01086,SUP18,Yokohama Engineering Labs,,Services,2025-12-21,2026-01-20,JPY,835685.46,Historical
+INV-00646,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-06,2025-06-05,EUR,13293.76,Historical
+INV-00084,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-03-27,2026-04-26,EUR,8005.78,Historical
+INV-00400,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-02-08,2026-04-09,JPY,14074579.98,Historical
+INV-01218,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-01-24,2025-02-23,EUR,6621.63,Historical
+INV-01331,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-05-23,2025-06-22,EUR,16890.41,Historical
+INV-00214,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-12-06,2027-01-20,EUR,9715.17,Planned
+INV-01295,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-07-24,2026-09-22,JPY,10311045.75,Historical
+INV-00248,SUP11,Manchester Cloud Solutions,IT,Software,2026-03-12,2026-04-11,GBP,3556.08,Historical
+INV-00416,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-01-29,,EUR,23959.06,Historical
+INV-01121,SUP04,Nordlicht Packaging,Operations,Packaging,2026-06-18,2026-07-18,EUR,2865.30,Historical
+INV-01203,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-04-23,2025-05-23,EUR,11789.04,Historical
+INV-00118,SUP13,Osaka Microdevices,Manufacturing,Components,2026-05-13,2026-06-27,JPY,1040345.30,Historical
+INV-00928,SUP10,Bristol Calibration Services,Operations,Services,2025-07-17,2025-08-31,GBP,831.89,Historical
+INV-00938,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-09-08,2026-10-08,JPY,2382721.03,Historical
+INV-00655,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-04-08,2025-05-08,JPY,1612808.81,Historical
+INV-00124,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-05-17,2025-07-01,EUR,42049.13,Historical
+INV-01042,SUP06,Dublin Systems Licensing,IT,Software,2026-09-08,2026-10-08,EUR,9646.13,Historical
+INV-00815,SUP15,Nagoya Logistics Partners,,Freight,2025-05-14,2025-06-13,JPY,474893.22,Historical
+INV-00359,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-19,2026-12-19,EUR,30863.76,Planned
+INV-00241,SUP06,Dublin Systems Licensing,IT,Software,2026-04-26,2026-05-26,EUR,4221.06,Historical
+INV-00104,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-06-09,2025-07-09,JPY,1327372.20,Historical
+INV-01114,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-06-28,2025-07-28,JPY,893675.39,Historical
+INV-00767,SUP11,Manchester Cloud Solutions,IT,Software,2026-10-26,2026-11-25,GBP,5042.67,Planned
+INV-01498,SUP10,Bristol Calibration Services,Operations,Services,2026-07-25,2026-09-08,GBP,1308.01,Historical
+INV-01263,SUP13,Osaka Microdevices,Manufacturing,Components,2025-07-22,2025-09-05,JPY,3683893.26,Historical
+INV-00554,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-04-15,2026-06-14,GBP,17548.00,Historical
+INV-01265,SUP04,Nordlicht Packaging,Operations,Packaging,2026-06-18,2026-07-18,EUR,7522.33,Historical
+INV-01404,SUP10,Bristol Calibration Services,Operations,Services,2025-12-28,2026-02-11,GBP,8736.75,Historical
+INV-01075,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-11-03,2026-01-02,GBP,9514.85,Historical
+INV-01008,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-02-12,2025-03-14,EUR,5688.98,Historical
+INV-00878,SUP10,Bristol Calibration Services,Operations,Services,2026-06-23,2026-08-07,GBP,5712.26,Historical
+INV-00087,SUP13,Osaka Microdevices,Manufacturing,Components,2026-10-17,2026-12-01,JPY,4281290.91,Planned
+INV-01386,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-08-13,2026-09-12,JPY,1601160.33,Historical
+INV-00121,SUP18,Yokohama Engineering Labs,Operations,Services,2025-05-26,2025-06-25,JPY,304795.78,Historical
+INV-01347,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-07-20,2026-08-19,EUR,5107.86,Historical
+INV-00027,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-03,2025-03-05,JPY,1421811.26,Historical
+INV-01464,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-03-29,2025-05-13,JPY,269414.49,Historical
+INV-00135,SUP13,Osaka Microdevices,Manufacturing,Components,2026-11-05,2026-12-20,JPY,3294453.19,Planned
+INV-00784,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-09-30,2026-10-30,GBP,31218.26,Historical
+INV-01246,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-11-12,2026-12-12,JPY,1816290.58,Planned
+INV-00899,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-05-01,2025-06-30,GBP,19481.50,Historical
+INV-01091,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-11-03,2026-12-03,EUR,9813.94,Planned
+INV-00019,SUP14,Tokyo Automation Systems,Manufacturing,Equip.,2025-03-26,2025-05-25,JPY,12493079.39,Historical
+INV-01079,SUP11,Manchester Cloud Solutions,IT,Software,2025-03-29,2025-04-28,GBP,4370.61,Historical
+INV-00493,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-01-04,2026-02-03,EUR,33266.65,Historical
+INV-00003,SUP10,Bristol Calibration Services,Operations,Services,2026-11-04,2026-12-19,GBP,8105.55,Planned
+INV-00110,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-03-24,2026-04-23,JPY,299126.59,Historical
+INV-00805,SUP10,Bristol Calibration Services,Operations,Services,2026-06-04,2026-07-19,GBP,11972.27,Historical
+INV-00434,SUP11,Manchester Cloud Solutions,IT,Software,2026-04-06,2026-05-06,GBP,2725.09,Historical
+INV-01473,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-07-19,2025-09-02,EUR,49818.57,Historical
+INV-00502,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-12,2025-03-14,JPY,1306463.22,Historical
+INV-00664,SUP06,Dublin Systems Licensing,IT,Software,2026-02-08,2026-03-10,EUR,9831.92,Historical
+INV-01460,SUP10,Bristol Calibration Services,Operations,Services,2026-01-09,2026-02-23,GBP,1407.85,Historical
+INV-00585,SUP11,Manchester Cloud Solutions,IT,Software,2025-04-10,2025-05-10,GBP,4152.51,Historical
+INV-01099,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-05-01,2026-05-31,EUR,9059.70,Historical
+INV-00595,SUP06,Dublin Systems Licensing,IT,Software,2025-11-25,2025-12-25,EUR,6981.05,Historical
+INV-00722,SUP10,Bristol Calibration Services,Operations,Services,2026-01-01,2026-02-15,GBP,6435.10,Historical
+INV-00841,SUP13,Osaka Microdevices,Manufacturing,Components,2025-01-29,2025-03-15,JPY,4610859.42,Historical
+INV-01397,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-10-30,2026-11-29,EUR,22376.89,Planned
+INV-00877,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-11-17,2026-01-16,JPY,10410644.74,Historical
+INV-01299,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-11-15,2025-12-15,JPY,1847613.07,Historical
+INV-01239,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-07-24,2025-08-23,JPY,4245100.00,Historical
+INV-00861,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-04-11,2025-06-10,GBP,3830.89,Historical
+INV-01039,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-11-07,2027-01-06,GBP,5445.21,Planned
+INV-00076,SUP11,Manchester Cloud Solutions,IT,Software,2026-12-07,2027-01-06,GBP,5735.54,Planned
+INV-01288,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-10-02,2026-12-01,GBP,7340.39,Planned
+INV-00052,SUP13,Osaka Microdevices,Manufacturing,Components,2025-05-05,2025-06-19,JPY,3747462.46,Historical
+INV-00542,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-10-07,2025-12-06,GBP,2474.40,Historical
+INV-00617,SUP13,Osaka Microdevices,Manufacturing,Components,2025-03-22,2025-05-06,JPY,1508788.03,Historical
+INV-01306,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-05-03,2026-06-02,JPY,958849.30,Historical
+INV-00783,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-05-23,2026-06-22,JPY,1280473.04,Historical
+INV-00995,SUP13,Osaka Microdevices,Manufacturing,Components,2026-07-11,2026-08-25,JPY,5491929.23,Historical
+INV-01135,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-13,2025-05-28,EUR,43019.43,Historical
+INV-00942,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-12-19,2027-01-18,JPY,1513701.57,Planned
+INV-00522,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-11-27,2027-01-11,JPY,654315.17,Planned
+INV-00161,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-05-14,2026-07-13,GBP,27303.84,Historical
+INV-00057,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-12-31,2026-01-30,EUR,23049.22,Historical
+INV-01211,SUP13,Osaka Microdevices,Manufacturing,Components,2026-05-19,2026-07-03,JPY,2186750.49,Historical
+INV-00210,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-04-03,2025-05-03,EUR,13265.77,Historical
+INV-00445,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-09-16,2026-10-16,JPY,3403951.41,Historical
+INV-00107,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-06-01,2026-07-01,EUR,8162.37,Historical
+INV-01415,SUP04,Nordlicht Packaging,Operations,Packaging,2026-07-29,2026-08-28,EUR,11962.79,Historical
+INV-00605,SUP08, Valencia Circuit Supply  ,Manufacturing,Components,2025-10-31,2025-11-30,EUR,22779.37,Historical
+INV-00727,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-01-17,2025-02-16,GBP,29946.34,Historical
+INV-00573,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-11-21,2025-12-21,GBP,28641.99,Historical
+INV-00907,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-04-27,2025-05-27,JPY,5074228.27,Historical
+INV-00322,SUP10,Bristol Calibration Services,Operations,Services,2025-09-13,2025-10-28,GBP,12551.28,Historical
+INV-01199,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-03-01,2025-04-15,JPY,407341.67,Historical
+INV-01166,SUP04,Nordlicht Packaging,Operations,Packaging,2026-01-02,2026-02-01,EUR,3277.01,Historical
+INV-00106,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-02-24,2025-03-26,EUR,4413.06,Historical
+INV-01191,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-04,2026-12-04,EUR,27180.41,Planned
+INV-00166,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-01,2025-03-03,JPY,4829555.39,Historical
+INV-00354,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-07-21,2026-09-19,GBP,22397.54,Historical
+INV-00602,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-11-20,2025-12-20,GBP,20638.88,Historical
+INV-01307,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-10-18,2026-11-17,EUR,35097.21,Planned
+INV-00407,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-06-27,2025-07-27,EUR,24054.72,Historical
+INV-01444,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-01-09,2025-02-08,EUR,36251.05,Historical
+INV-00825,SUP13,Osaka Microdevices,Manufacturing,Components,2025-07-25,2025-09-08,JPY,976623.31,Historical
+INV-01434,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-09-23,2025-10-23,JPY,817297.16,Historical
+INV-00201,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-10-28,2026-12-12,EUR,48769.97,Planned
+INV-00023,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-01-20,2025-02-19,EUR,10120.87,Historical
+INV-00114,SUP11,Manchester Cloud Solutions,IT,Software,2026-01-03,2026-02-02,GBP,7301.56,Historical
+INV-01424,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-11-17,2027-01-01,EUR,15231.33,Planned
+INV-01224,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-02,2025-06-01,EUR,4592.88,Historical
+INV-00390,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-04-27,2026-06-26,JPY,14461886.48,Historical
+INV-00668,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-06-26,2025-07-26,GBP,4623.20,Historical
+INV-00325,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-21,2025-06-20,EUR,22717.78,Historical
+INV-00537,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-08-15,2025-09-14,GBP,30318.72,Historical
+INV-01249,SUP13,Osaka Microdevices,Manufacturing,Components,2025-09-07,2025-10-22,JPY,1004020.15,Historical
+INV-00157,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-09-24,2026-10-24,JPY,2470445.97,Historical
+INV-00840,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-06-27,2026-07-27,EUR,17332.74,Historical
+INV-00779,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-10-02,2025-11-01,JPY,593123.70,Historical
+INV-00923,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-01-09,2025-03-10,JPY,10299335.93,Historical
+INV-00102,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-10-09,2025-11-08,EUR,12436.83,Historical
+INV-00867,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-11-09,2027-01-08,GBP,12579.97,Planned
+INV-00614,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-03-05,2025-04-04,JPY,580936.06,Historical
+INV-01349,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-10-07,2026-11-06,EUR,21605.25,Planned
+INV-01354,SUP13,Osaka Microdevices,Manufacturing,Components,2025-11-19,2026-01-03,JPY,1367020.36,Historical
+INV-01116,SUP04,Nordlicht Packaging,Operations,Packaging,2025-08-15,2025-09-14,EUR,6436.26,Historical
+INV-00771,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-09-20,2026-11-19,JPY,14275212.54,Historical
+INV-00350,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-10-24,2026-12-23,GBP,16554.74,Planned
+INV-01195,SUP04,Nordlicht Packaging,,Packaging,2025-08-27,2025-09-26,EUR,11015.57,Historical
+INV-00597,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-06-20,2026-07-20,JPY,626267.98,Historical
+INV-00226,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-12-09,2026-01-08,EUR,12654.34,Historical
+INV-00890,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-10-23,2026-11-22,JPY,4101933.74,Planned
+INV-01162,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-04-05,2025-05-20,EUR,28924.59,Historical
+INV-00253,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-11,2026-09-10,EUR,21253.33,Historical
+INV-00853,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-08-01,2026-09-15,EUR,16312.24,Historical
+INV-01466,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-07-09,2026-08-08,EUR,29757.12,Historical
+INV-00528,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-03-09,2025-04-23,JPY,955538.54,Historical
+INV-00898,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-11-21,2026-12-21,EUR,8656.83,Planned
+INV-00466,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-09-26,2025-10-26,JPY,2717558.40,Historical
+INV-00453,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-07-07,2026-08-06,EUR,8071.13,Historical
+INV-00519,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-02-21,2025-04-07,EUR,24811.78,Historical
+INV-01268,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-04-19,2025-05-19,JPY,1816199.72,Historical
+INV-00155,SUP10,Bristol Calibration Services,Operations,Services,2026-05-06,2026-06-20,GBP,9159.87,Historical
+INV-00033,SUP13,Osaka Microdevices,Manufacturing,Components,2025-04-14,2025-05-29,JPY,991121.90,Historical
+INV-00113,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-08-06,2026-09-05,GBP,26345.61,Historical
+INV-00674,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-12-27,2027-02-10,JPY,245207.68,Planned
+INV-00307,SUP04,Nordlicht Packaging,Operations,Packaging,2026-09-19,2026-10-19,EUR,7658.05,Historical
+INV-00319,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-05-16,2025-07-15,JPY,9515858.37,Historical
+INV-00652,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-07-17,2026-08-16,GBP,11048.23,Historical
+INV-01109,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-11-28,2026-01-27,EUR,35268.66,Historical
+INV-01085,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-07-17,2025-08-16,JPY,1120398.86,Historical
+INV-01333,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-12-16,2027-01-15,EUR,17587.79,Planned
+INV-00321,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-04,2026-12-04,EUR,21596.38,Planned
+INV-00606,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-01-21,,EUR,32253.03,Historical
+INV-01161,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-06-16,2026-07-16,EUR,11309.40,Historical
+INV-00172,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-01-22,2026-02-21,EUR,29267.05,Historical
+INV-00269,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-04-11,2026-05-26,JPY,1147404.61,Historical
+INV-00050,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-12-02,2027-01-16,JPY,439426.68,Planned
+INV-01188,SUP05,Lyon Industrial Controls,Manufacturing,Parts,2026-10-28,2026-12-12,EUR,18963.06,Planned
+INV-01266,SUP13,Osaka Microdevices,,Components,2025-09-10,2025-10-25,JPY,5229795.91,Historical
+INV-00207,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-02-05,2025-03-07,EUR,17678.93,Historical
+INV-00523,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-05-19,2025-06-18,JPY,1448594.65,Historical
+INV-00145,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-05-22,2026-07-06,JPY,833276.54,Historical
+INV-00001,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-17,2026-05-17,EUR,16673.80,Historical
+INV-00494,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-12-04,2027-01-18,JPY,1412060.43,Planned
+INV-01083,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-05-24,,JPY,1812550.81,Historical
+INV-00498,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-09-26,2025-10-26,GBP,14140.66,Historical
+INV-00056,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-05-21,2026-07-20,GBP,26176.75,Historical
+INV-01429,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-06-15,2026-07-30,EUR,17470.64,Historical
+INV-01470,SUP04,Nordlicht Packaging,Operations,Packaging,2026-07-12,2026-08-11,EUR,4515.47,Historical
+INV-01098,SUP13,Osaka Microdevices,Manufacturing,Components,2025-10-31,2025-12-15,JPY,2474526.75,Historical
+INV-00240,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-05-18,2025-06-17,JPY,1027781.15,Historical
+INV-01072,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-05-17,2026-07-01,EUR,32036.29,Historical
+INV-00624,SUP06,Dublin Systems Licensing,IT,Software,2026-05-21,2026-06-20,EUR,5418.55,Historical
+INV-01226,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-06-12,2026-07-27,EUR,34673.57,Historical
+INV-00988,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-02-09,2026-04-10,EUR,44003.07,Historical
+INV-00127,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-02-15,2026-03-17,EUR,13601.80,Historical
+INV-01362,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-10-02,2025-11-16,JPY,612364.47,Historical
+INV-00079,SUP06,Dublin Systems Licensing,IT,Software,2026-02-08,2026-03-10,EUR,14614.88,Historical
+INV-00991,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-09,2026-12-09,EUR,6794.80,Planned
+INV-00406,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-06-01,2026-07-31,GBP,20951.06,Historical
+INV-01212,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-09-07,2025-10-22,EUR,51941.85,Historical
+INV-00432,SUP13,Osaka Microdevices,Manufacturing,Components,2026-05-18,2026-07-02,JPY,3798582.64,Historical
+INV-01200,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-02-19,2025-03-21,GBP,8990.72,Historical
+INV-01297,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-04-09,2026-05-09,JPY,2717415.21,Historical
+INV-00105,SUP06,Dublin Systems Licensing,IT,Software,2025-03-01,2025-03-31,EUR,12269.19,Historical
+INV-01454,SUP13,Osaka Microdevices,Manufacturing,Components,2025-08-05,2025-09-19,JPY,1212831.06,Historical
+INV-00179,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-07-22,2026-09-05,EUR,27683.27,Historical
+INV-01145,SUP18,Yokohama Engineering Labs,Operations,Services,2025-07-10,2025-08-09,JPY,1448377.20,Historical
+INV-00478,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-06-25,2026-07-25,JPY,1358603.24,Historical
+INV-01102,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-11-22,2026-01-21,EUR,28656.45,Historical
+INV-00929,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-11-08,2025-12-08,EUR,16455.52,Historical
+INV-00683,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-08-06,2026-09-05,JPY,4191121.90,Historical
+INV-00593,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-05-26,2025-07-25,EUR,42810.73,Historical
+INV-00953,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-10-04,2026-11-03,JPY,2085133.92,Planned
+INV-00673,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-12-08,2026-01-07,JPY,1440765.45,Historical
+INV-00643,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-02-13,2025-04-14,EUR,65473.27,Historical
+INV-00883,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-10-18,2025-11-17,EUR,15514.69,Historical
+INV-00352,SUP04,Nordlicht Packaging,Operations,Packaging,2025-11-06,2025-12-06,EUR,11397.89,Historical
+INV-00863,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-17,2026-12-17,EUR,32655.60,Planned
+INV-01348,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-12-28,2026-02-11,EUR,16655.34,Historical
+INV-00112,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-16,2026-09-15,EUR,15829.90,Historical
+INV-00013,SUP13,Osaka Microdevices,Manufacturing,Components,2026-02-22,2026-04-08,JPY,3587555.89,Historical
+INV-00772,SUP04,Nordlicht Packaging,Operations,Packaging,2025-12-18,2026-01-17,EUR,9192.86,Historical
+INV-00555,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-06-13,2025-07-28,EUR,39666.95,Historical
+INV-01311,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-07-16,2025-08-15,EUR,6881.95,Historical
+INV-00437,SUP06,Dublin Systems Licensing,IT,Software,2025-03-17,2025-04-16,EUR,4758.94,Historical
+INV-00551,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-03-27,2026-04-26,JPY,1653538.49,Historical
+INV-01326,SUP13,Osaka Microdevices,Manufacturing,Components,2026-01-02,2026-02-16,JPY,1325412.01,Historical
+INV-01343,SUP04,Nordlicht Packaging,Operations,Packaging,2025-01-28,2025-02-27,EUR,1933.56,Historical
+INV-01414,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-06-06,2025-07-06,EUR,26447.06,Historical
+INV-00020,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-20,2025-05-20,GBP,24039.06,Historical
+INV-01468,SUP11,Manchester Cloud Solutions,IT,Software,2026-10-09,2026-11-08,GBP,11411.72,Planned
+INV-01069,SUP13,Osaka Microdevices,Manufacturing,Components,2026-04-21,2026-06-05,JPY,2576348.50,Historical
+INV-00696,SUP04,Nordlicht Packaging,Operations,Packaging,2025-09-19,2025-10-19,EUR,4979.87,Historical
+INV-00496,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-11-16,2026-12-16,GBP,13039.69,Planned
+INV-00338,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-07-10,2026-09-08,JPY,11647487.40,Historical
+INV-00659,SUP13,Osaka Microdevices,Manufacturing,Components,2026-12-24,2027-02-07,JPY,4874806.08,Planned
+INV-01212,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-04-02,2025-06-01,JPY,8802664.77,Historical
+INV-00381,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-10,2026-10-10,EUR,10536.62,Historical
+INV-01154,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-24,2025-06-08,EUR,44433.84,Historical
+INV-01005,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-06-18,2025-08-02,EUR,20851.90,Historical
+INV-00568,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-03-08,2025-04-07,GBP,27203.32,Historical
+INV-00649,SUP04,Nordlicht Packaging,Operations,Packaging,2026-11-10,2026-12-10,EUR,10308.31,Planned
+INV-01060,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-06-07,2026-08-06,EUR,58027.65,Historical
+INV-00757,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-06-10,2026-08-09,EUR,76459.79,Historical
+INV-00693,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-01-17,2025-02-16,JPY,2323829.55,Historical
+INV-00945,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-06-18,2026-07-18,JPY,790563.08,Historical
+INV-00025,SUP04,Nordlicht Packaging,Operations,Packaging,2026-04-16,2026-05-16,EUR,9805.54,Historical
+INV-01299,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-04-23,2025-05-23,JPY,1202749.04,Historical
+INV-00960,SUP04,Nordlicht Packaging,Operations,Packaging,2026-02-07,2026-03-09,EUR,13008.07,Historical
+INV-00566,SUP04,Nordlicht Packaging,Operations,Packaging,2025-03-17,2025-04-16,EUR,10006.56,Historical
+INV-01215,SUP10,Bristol Calibration Services,Operations,Services,2025-08-16,2025-09-30,GBP,4609.98,Historical
+INV-00101,SUP04,Nordlicht Packaging,Operations,Packaging,2025-06-03,2025-07-03,EUR,8093.57,Historical
+INV-00903,SUP04,Nordlicht Packaging,Operations,Packaging,2026-10-27,2026-11-26,EUR,7686.90,Planned
+INV-00454,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-11-04,2025-12-04,EUR,32899.67,Historical
+INV-00438,SUP18,Yokohama Engineering Labs,Operations,Service,2026-11-23,2026-12-23,JPY,335301.29,Planned
+INV-00546,SUP13,Osaka Microdevices,Manufacturing,Components,2025-01-08,2025-02-22,JPY,2981902.22,Historical
+INV-01394,SUP10,Bristol Calibration Services,Operations,Services,2025-04-13,2025-05-28,GBP,1340.49,Historical
+INV-00842,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-08-25,2026-10-24,GBP,6771.30,Historical
+INV-01028,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-12-13,2026-02-11,GBP,22501.10,Historical
+INV-00279,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-01-14,2026-03-15,GBP,6408.87,Historical
+INV-01164,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-10-18,2025-12-02,EUR,11724.19,Historical
+INV-01078,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-03-14,,EUR,4659.43,Historical
+INV-00117,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-27,2025-06-26,GBP,14805.70,Historical
+INV-01342,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-12,2026-05-12,EUR,14941.19,Historical
+INV-00099,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-10-22,2025-11-21,JPY,2258915.79,Historical
+INV-00538,SUP10,Bristol Calibration Services,Operations,Services,2025-02-21,2025-04-07,GBP,10967.25,Historical
+INV-00285,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-01-24,2026-02-23,GBP,31609.21,Historical
+INV-00403,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-07-06,2026-08-05,GBP,12335.28,Historical
+INV-00654,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-07-08,2025-08-22,EUR,68848.45,Historical
+INV-01461,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-07-25,2025-09-08,EUR,50198.60,Historical
+INV-01417,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-08-23,2025-10-07,EUR,24308.48,Historical
+INV-01292,SUP10,Bristol Calibration Services,Operations,Services,2025-10-10,2025-11-24,GBP,1658.48,Historical
+INV-00996,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-20,2025-06-04,EUR,21099.04,Historical
+INV-01310,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-03-08,2026-04-07,GBP,15123.81,Historical
+INV-01381,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-08-21,2025-10-20,GBP,11046.04,Historical
+INV-00647,SUP10,Bristol Calibration Services,Operations,Services,2025-06-12,2025-07-27,GBP,2171.03,Historical
+INV-01140,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-06-24,2025-08-23,GBP,19397.92,Historical
+INV-00587,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-10,2025-06-09,EUR,17730.39,Historical
+INV-00697,SUP10,Bristol Calibration Services,,Services,2025-05-16,2025-06-30,GBP,14162.40,Historical
+INV-00798,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-08-21,2025-10-05,EUR,21188.91,Historical
+INV-00008,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-02-13,2026-03-15,EUR,28206.02,Historical
+INV-00797,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-07-26,2026-09-09,EUR,32343.04,Historical
+INV-00786,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-06-02,2026-07-02,GBP,32332.60,Historical
+INV-00583,SUP18,Yokohama Engineering Labs,Operations,Services,2026-12-19,2027-01-18,JPY,1060704.36,Planned
+INV-00799,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-06-12,2025-08-11,EUR,68081.31,Historical
+INV-01214,SUP10,Bristol Calibration Services,Operations,Services,2025-01-24,,GBP,6483.74,Historical
+INV-00590,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-02-14,2025-03-16,EUR,29851.35,Historical
+INV-00443,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-16,2025-08-15,EUR,10381.53,Historical
+INV-00616,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-03,2025-12-03,EUR,26163.27,Historical
+INV-00167,SUP11,Manchester Cloud Solutions,IT,Software,8/17/2026,2026-09-16,GBP,1606.73,Historical
+INV-00849,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-09-19,2026-10-19,EUR,19207.32,Historical
+INV-01284,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-11-09,2025-12-09,EUR,16768.02,Historical
+INV-01273,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-12-26,2026-01-25,EUR,13045.32,Historical
+INV-00202,SUP03,Benelux Sensor Works,Manufacturing,Components,10/30/2025,2025-11-29,EUR,8451.63,Historical
+INV-00051,SUP13,Osaka Microdevices,Manufacturing,Components,2025-07-17,2025-08-31,JPY,3120410.18,Historical
+INV-00672,SUP04,Nordlicht Packaging,Operations,Packaging,2026-01-21,2026-02-20,EUR,7988.83,Historical
+INV-00564,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-24,2025-06-23,GBP,5667.88,Historical
+INV-00422,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-08-23,2026-10-22,EUR,55645.09,Historical
+INV-00479,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-09-14,2025-10-14,JPY,2104873.54,Historical
+INV-00392,SUP11,Manchester Cloud Solutions,IT,Software,2026-10-04,2026-11-03,GBP,2609.84,Planned
+INV-00273,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-10-17,2025-11-16,EUR,8458.95,Historical
+INV-00324,SUP10,Bristol Calibration Services,Operations,Services,2025-01-24,2025-03-10,GBP,1994.53,Historical
+INV-00187,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-06-01,2026-07-16,EUR,33328.50,Historical
+INV-00485,SUP09,Thames Electronics Ltd,Manufacturing,Parts,2026-04-14,2026-05-14,GBP,6837.34,Historical
+INV-01484,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-15,2025-03-17,JPY,1202482.61,Historical
+INV-01053,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-07-04,2026-08-03,JPY,235455.10,Historical
+INV-00152,SUP06,Dublin Systems Licensing,IT,Software,2025-10-16,2025-11-15,EUR,5576.93,Historical
+INV-01125,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-08-28,2025-10-12,EUR,48469.60,Historical
+INV-01051,SUP11,Manchester Cloud Solutions,IT,Software,2025-10-31,2025-11-30,GBP,5987.04,Historical
+INV-00684,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-10,2025-06-09,GBP,18134.89,Historical
+INV-00245,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-14,2025-08-13,EUR,46085.52,Historical
+INV-01064,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-08-22,2026-10-06,EUR,33229.08,Historical
+INV-00440,SUP18,Yokohama Engineering Labs,Operations,Services,2025-09-25,2025-10-25,JPY,1183740.54,Historical
+INV-00704,SUP13,Osaka Microdevices,Manufacturing,Components,2026-01-03,2026-02-17,JPY,2342069.21,Historical
+INV-00100,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-01-21,2026-02-20,EUR,7203.08,Historical
+INV-00876,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-07-25,2026-08-24,JPY,2988878.32,Historical
+INV-01165,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-07-17,2026-08-31,EUR,53901.16,Historical
+INV-01050,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-10-07,2026-11-21,EUR,15784.72,Planned
+INV-01353,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-06-24,2025-07-24,GBP,9631.91,Historical
+INV-00021,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-09-30,2025-11-14,EUR,68783.42,Historical
+INV-00309,SUP07,Milan Assembly Robotics,Manufacturing,Equip.,2026-02-06,2026-04-07,EUR,56816.59,Historical
+INV-01262,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-06-14,2026-07-14,EUR,46832.12,Historical
+INV-01328,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-07-31,2025-09-29,GBP,7361.38,Historical
+INV-00347,SUP02,Alpen Precision Systems,Manufacturing,Equipment,12/19/2026,2027-02-02,EUR,50589.70,Planned
+INV-01358,SUP10,Bristol Calibration Services,Operations,Services,2026-10-14,2026-11-28,GBP,6849.42,Planned
+INV-00611,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-24,2025-03-26,JPY,4350994.54,Historical
+INV-00041,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-07-16,2025-09-14,GBP,15393.63,Historical
+INV-01294,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-07-06,2025-08-05,JPY,1489724.93,Historical
+INV-00888,SUP10,Bristol Calibration Services,Operations,Services,2025-01-21,2025-03-07,GBP,2928.39,Historical
+INV-01399,SUP04,Nordlicht Packaging,Operations,Packaging,2026-08-24,2026-09-23,EUR,9513.50,Historical
+INV-00238,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-02-11,2026-03-28,JPY,519155.84,Historical
+INV-00959,SUP18,Yokohama Engineering Labs,Operations,Services,2025-03-01,2025-03-31,JPY,442169.00,Historical
+INV-00072,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-08-25,2025-10-24,EUR,63941.90,Historical
+INV-00638,SUP13,Osaka Microdevices,Manufacturing,Components,2026-09-26,2026-11-10,JPY,1429782.05,Historical
+INV-01146,SUP11,Manchester Cloud Solutions,IT,Software,2025-04-03,2025-05-03,GBP,5999.69,Historical
+INV-01401,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-07-10,2026-08-24,EUR,50364.21,Historical
+INV-00404,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-07-25,2025-08-24,JPY,1342483.58,Historical
+INV-01022,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-05-31,,JPY,3180319.72,Historical
+INV-00999,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-01-11,2026-02-10,JPY,3972309.54,Historical
+INV-00630,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-27,2025-06-26,EUR,9439.82,Historical
+INV-00648,SUP13,Osaka Microdevices,Manufacturing,Components,2026-02-04,2026-03-21,JPY,3305496.65,Historical
+INV-01227,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-12-12,2026-01-11,EUR,28305.00,Historical
+INV-01451,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-08-29,2025-09-28,EUR,26968.24,Historical
+INV-01189,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-06-19,2026-07-19,JPY,531527.34,Historical
+INV-01094,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-01-02,2025-03-03,GBP,18898.54,Historical
+INV-00095,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-04-28,2026-06-12,JPY,337118.72,Historical
+INV-00586,SUP04,Nordlicht Packaging,Operations,Packaging,2026-09-18,2026-10-18,EUR,12160.96,Historical
+INV-01185,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-10-20,2025-12-19,GBP,11567.98,Historical
+INV-00939,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-08-15,2026-09-14,GBP,7661.15,Historical
+INV-00807,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-05-31,2025-06-30,EUR,10583.43,Historical
+INV-00029,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-29,2026-09-28,EUR,40466.83,Historical
+INV-01300,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-06-12,2026-07-12,EUR,15409.91,Historical
+INV-00665,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-04-19,2026-06-03,EUR,9094.76,Historical
+INV-01251,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-03-17,2026-04-16,EUR,35727.26,Historical
+INV-00576,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-12-12,2026-01-11,JPY,2243330.47,Historical
+INV-00932,SUP10,Bristol Calibration Services,Operations,Services,2025-06-05,2025-07-20,GBP,16783.09,Historical
+INV-00165,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-08,2025-06-07,EUR,3718.98,Historical
+INV-01073,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-08-02,2025-09-01,JPY,3625865.57,Historical
+INV-01380,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-07-15,2026-08-14,EUR,14943.11,Historical
+INV-00948,SUP03,Benelux Sensor Works,Manufacturing,Parts,2026-11-23,2026-12-23,EUR,19777.14,Planned
+INV-00011,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-14,2026-10-14,EUR,3672.96,Historical
+INV-00373,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-12-18,2027-01-17,EUR,7542.09,Planned
+INV-00501,SUP13,Osaka Microdevices,Manufacturing,Components,2026-06-18,2026-08-02,JPY,2864437.02,Historical
+INV-00880,SUP04,Nordlicht Packaging,Operations,Packaging,2025-02-28,2025-03-30,EUR,3081.13,Historical
+INV-01225,SUP16,Kyoto Optical Instruments,,Components,2026-10-15,2026-11-14,JPY,1027165.81,Planned
+INV-00429,SUP10,Bristol Calibration Services,Operations,Services,2026-11-18,2027-01-02,GBP,11797.30,Planned
+INV-00148,SUP18,Yokohama Engineering Labs,Operations,Services,2026-08-18,2026-09-17,JPY,621625.68,Historical
+INV-00317,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-10-18,2026-12-02,EUR,15123.34,Planned
+INV-01172,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-05-31,2025-07-30,GBP,2999.80,Historical
+INV-00839,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-12-07,2026-01-06,EUR,13969.24,Historical
+INV-00947,SUP18,Yokohama Engineering Labs,Operations,Services,2025-10-31,2025-11-30,JPY,1754068.45,Historical
+INV-00089,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-02-02,2025-03-19,EUR,4251.75,Historical
+INV-00363,SUP04,Nordlicht Packaging,Operations,Packaging,2025-01-27,2025-02-26,EUR,6119.57,Historical
+INV-00759,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-06-02,2025-07-17,JPY,448046.80,Historical
+INV-00982,SUP18,Yokohama Engineering Labs,Operations,Services,2025-08-18,2025-09-17,JPY,702928.38,Historical
+INV-00680,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-11-15,2026-12-15,GBP,4484.38,Planned
+INV-00608,SUP13,Osaka Microdevices,Manufacturing,Components,2025-08-08,2025-09-22,JPY,761184.66,Historical
+INV-01499,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-04-30,2026-06-29,EUR,25029.56,Historical
+INV-01261,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-02-25,,EUR,20248.67,Historical
+INV-00219,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-03-12,2026-04-26,EUR,16012.43,Historical
+INV-00150,SUP11,Manchester Cloud Solutions,IT,Software,2025-03-05,2025-04-04,GBP,6152.68,Historical
+INV-00804,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-02-03,2026-04-04,EUR,63687.30,Historical
+INV-00755,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-12-18,2027-01-17,EUR,26298.92,Planned
+INV-00461,SUP10,Bristol Calibration Services,Operations,Services,2026-05-21,2026-07-05,GBP,17152.77,Historical
+INV-00844,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-02-20,2025-04-06,EUR,22296.04,Historical
+INV-01089,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-11,2025-05-26,EUR,20824.33,Historical
+INV-00746,SUP04,Nordlicht Packaging,Operations,Packaging,2026-10-25,2026-11-24,EUR,6424.95,Planned
+INV-00782,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-01-21,2025-03-07,JPY,"1,301,448.39",Historical
+INV-00906,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-09-11,2025-10-11,EUR,14445.38,Historical
+INV-01157,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-10-27,2026-11-26,EUR,6093.57,Planned
+INV-00436,SUP04,Nordlicht Packaging,Operations,Packaging,2026-12-01,2026-12-31,EUR,6881.54,Planned
+INV-01334,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-07-21,2025-08-20,EUR,13444.34,Historical
+INV-00757,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-05-17,2026-07-16,GBP,29757.11,Historical
+INV-00574,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-05-02,2025-06-01,JPY,181733.19,Historical
+INV-00504,SUP11,Manchester Cloud Solutions,IT,Software,2025-01-19,2025-02-18,GBP,4068.04,Historical
+INV-01014,SUP06,Dublin Systems Licensing,IT,Software,2026-06-13,2026-07-13,EUR,3320.98,Historical
+INV-01255,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-08-28,2026-09-27,GBP,25157.83,Historical
+INV-00720,SUP18,Yokohama Engineering Labs,Operations,Services,2025-05-23,2025-06-22,JPY,993169.39,Historical
+INV-01101,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-12-23,2027-02-06,EUR,81758.79,Planned
+INV-00447,SUP06,Dublin Systems Licensing,IT,Software,2026-02-17,2026-03-19,EUR,1249.79,Historical
+INV-00862,SUP04,Nordlicht Packaging,Operations,Packaging,2025-10-01,2025-10-31,EUR,3826.62,Historical
+INV-00734,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-12-24,2026-01-23,EUR,14822.40,Historical
+INV-00954,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-24,2025-12-24,EUR,15483.60,Historical
+INV-00955,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-10,2026-05-10,EUR,29244.34,Historical
+INV-01432,SUP18,Yokohama Engineering Labs,Operations,Services,2025-11-28,2025-12-28,JPY,1826026.95,Historical
+INV-01245,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-08-15,2026-09-14,JPY,784552.88,Historical
+INV-01048,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-09-05,2025-10-05,EUR,21243.50,Historical
+INV-00313,SUP10,Bristol Calibration Services,Operations,Services,2025-05-22,2025-07-06,GBP,1893.21,Historical
+INV-00850,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-08-05,2025-09-19,EUR,8205.47,Historical
+INV-00881,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-01-17,2025-03-18,GBP,26255.64,Historical
+INV-00639,SUP11,Manchester Cloud Solutions,IT,Software,2026-07-29,2026-08-28,GBP,6074.53,Historical
+INV-00326,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-05-01,2025-05-31,JPY,1494091.52,Historical
+INV-00743,SUP04,Nordlicht Packaging,Operations,Packaging,2026-05-17,2026-06-16,EUR,1794.62,Historical
+INV-01074,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-06-04,2026-07-04,EUR,3732.56,Historical
+INV-00247,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-05-25,2026-06-24,EUR,16031.59,Historical
+INV-01267,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-05-28,2025-07-12,EUR,16104.03,Historical
+INV-00712,SUP04,Nordlicht Packaging,Operations,Packaging,2026-07-07,2026-08-06,EUR,11397.19,Historical
+INV-01032,SUP10,Bristol Calibration Services,Operations,Services,2025-12-02,2026-01-16,GBP,13529.42,Historical
+INV-01479,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-06-19,2025-07-19,JPY,3006666.84,Historical
+INV-00716,SUP13,Osaka Microdevices,Manufacturing,Components,2025-03-20,2025-05-04,JPY,3909796.61,Historical
+INV-01084,SUP11,Manchester Cloud Solutions,IT,Software,2025-04-16,2025-05-16,GBP,7330.95,Historical
+INV-01126,SUP13,Osaka Microdevices,Manufacturing,Components,2026-06-16,2026-07-31,JPY,3311704.80,Historical
+INV-00864,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-10-04,2025-11-03,JPY,2063873.92,Historical
+INV-01131,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-11,,EUR,14355.98,Historical
+INV-01500,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-05-01,2026-05-31,EUR,48002.75,Historical
+INV-01477,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-02-23,2026-04-24,GBP,20544.90,Historical
+INV-01257,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-10-07,2026-11-06,JPY,1348598.44,Planned
+INV-01301,SUP04,Nordlicht Packaging,Operations,Packaging,2026-09-19,2026-10-19,EUR,2235.40,Historical
+INV-01279,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-08,2025-05-23,EUR,16400.43,Historical
+INV-00776,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-03-09,2025-04-08,GBP,4251.75,Historical
+INV-00053,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-06-08,2025-07-08,EUR,2396.32,Historical
+INV-00244,SUP13,Osaka Microdevices,Manufacturing,Components,2026-10-30,2026-12-14,JPY,1828174.94,Planned
+INV-00563,SUP13,Osaka Microdevices,Manufacturing,Components,2025-05-25,2025-07-09,JPY,1032413.42,Historical
+INV-00229,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-06-24,2025-07-24,EUR,5280.72,Historical
+INV-00144,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-12-16,2026-01-30,JPY,1407204.91,Historical
+INV-00306,SUP04,Nordlicht Packaging,Operations,Packaging,2026-09-03,2026-10-03,EUR,2088.75,Historical
+INV-00600,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-31,2026-09-30,EUR,15493.86,Historical
+INV-00852,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-09-02,2026-10-17,EUR,19642.10,Historical
+INV-00599,SUP10,Bristol Calibration Services,Operations,Services,2025-10-03,2025-11-17,GBP,5326.44,Historical
+INV-00847,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-07-19,2026-08-18,JPY,2406973.68,Historical
+INV-00559,SUP10,Bristol Calibration Services,Operations,Services,2026-02-07,2026-03-24,GBP,2347.55,Historical
+INV-01353,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-05-30,2026-07-29,EUR,49309.84,Historical
+INV-00717,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-02-07,2026-03-24,EUR,53572.94,Historical
+INV-01318,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-10-03,2026-11-17,JPY,1076254.84,Planned
+INV-00059,SUP06,Dublin Systems Licensing,IT,Software,2026-12-01,2026-12-31,EUR,3388.43,Planned
+INV-01352,SUP09,thames electronics ltd,Manufacturing,Components,2026-02-17,2026-03-19,GBP,19685.17,Historical
+INV-00191,SUP11,Manchester Cloud Solutions,IT,Software,2025-09-16,2025-10-16,GBP,3870.29,Historical
+INV-00216,SUP16,Kyoto Optical Instruments,,Components,2025-05-03,2025-06-02,JPY,786020.85,Historical
+INV-00379,SUP11,Manchester Cloud Solutions,IT,Software,2025-10-07,2025-11-06,GBP,4586.33,Historical
+INV-00426,SUP13,OSAKA MICRODEVICES,Manufacturing,Components,2026-03-01,2026-04-15,JPY,3527847.49,Historical
+INV-01119,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-06-07,2025-07-07,JPY,1137613.81,Historical
+INV-00045,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-09-08,2025-10-08,JPY,842750.02,Historical
+INV-00353,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-10-11,2025-11-10,EUR,7954.69,Historical
+INV-00054,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-02-08,2025-03-25,EUR,12975.04,Historical
+INV-01369,SUP04,Nordlicht Packaging,Operations,Packaging,2026-07-24,2026-08-23,EUR,13202.92,Historical
+INV-00371,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-09-18,2025-11-02,EUR,10559.75,Historical
+INV-00895,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-10-20,2025-11-19,GBP,33764.70,Historical
+INV-00384,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-02-15,2026-03-17,EUR,14363.50,Historical
+INV-00391,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-05-12,2025-06-11,JPY,904763.11,Historical
+INV-00409,SUP10,Bristol Calibration Services,Operations,Services,2026-08-01,2026-09-15,GBP,11814.48,Historical
+INV-00278,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-10-08,2025-11-07,EUR,41501.90,Historical
+INV-00387,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-01-12,2026-03-13,GBP,13038.32,Historical
+INV-01462,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-09-22,2026-10-22,GBP,6221.24,Historical
+INV-00459,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-01-25,2026-03-11,EUR,21273.14,Historical
+INV-00983,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-03-27,2025-05-26,GBP,5409.48,Historical
+INV-01167,SUP10,Bristol Calibration Services,Operations,Services,2026-03-06,2026-04-20,GBP,1800.78,Historical
+INV-00408,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-26,2025-05-26,GBP,17704.11,Historical
+INV-00854,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-08-30,2025-10-29,GBP,4605.08,Historical
+INV-01312,SUP11,Manchester Cloud Solutions,IT,IT Software,2025-05-04,2025-06-03,GBP,7054.90,Historical
+INV-01247,SUP11,Manchester Cloud Solutions,IT,Software,2025-02-12,2025-03-14,GBP,2277.15,Historical
+INV-01309,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-08-12,2025-09-26,EUR,5522.55,Historical
+INV-01463,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-11-28,2026-01-12,EUR,8924.34,Historical
+INV-00411,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-04-23,2025-06-22,JPY,1601519.28,Historical
+INV-00731,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-10-08,2026-11-07,JPY,2027961.78,Planned
+INV-00582,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-11-21,2025-12-21,EUR,5513.94,Historical
+INV-00047,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-08-08,2025-09-07,GBP,29390.73,Historical
+INV-00835,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-06-04,2025-08-03,JPY,4921085.96,Historical
+INV-00688,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-06-29,2026-07-29,JPY,1580944.94,Historical
+INV-00865,SUP18,Yokohama Engineering Labs,Operations,Services,2025-03-14,2025-04-13,JPY,322326.46,Historical
+INV-01228,SUP13,Osaka Microdevices,Manufacturing,Components,2025-01-21,2025-03-07,JPY,4887612.31,Historical
+INV-00315,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-27,2026-12-27,EUR,22998.89,Planned
+INV-00038,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-02-07,2026-04-08,EUR,56073.70,Historical
+INV-00601,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-09-19,2026-11-03,EUR,9085.75,Historical
+INV-01469,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-09-24,2025-10-24,JPY,995461.14,Historical
+INV-00900,SUP14,Tokyo Automation Systems,,Equipment,2026-06-24,2026-08-23,JPY,11718724.47,Historical
+INV-01298,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-12-22,2026-01-21,EUR,14695.41,Historical
+INV-01319,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-01-26,2025-03-12,JPY,751568.31,Historical
+INV-01139,SUP04,Nordlicht Packaging,Operations,Packaging,2025-08-25,2025-09-24,EUR,8682.02,Historical
+INV-00957,SUP13,Osaka Microdevices,Manufacturing,Components,2025-03-30,2025-05-14,JPY,5109033.73,Historical
+INV-01046,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-03-29,2026-05-13,EUR,21994.37,Historical
+INV-00070,SUP03,Benelux Sensor Works,Manufacturing,Components,8/28/2026,2026-09-27,EUR,5473.87,Historical
+INV-00640,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-02-10,2026-03-27,EUR,37254.01,Historical
+INV-01123,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-21,2026-04-07,EUR,20317.27,Historical
+INV-00973,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-01-30,2025-03-01,EUR,27051.24,Historical
+INV-00829,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-14,2026-10-14,EUR,3271.56,Historical
+INV-00487,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-08-17,2025-10-16,GBP,5089.27,Historical
+INV-00944,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-12-24,2026-02-22,JPY,5386942.00,Historical
+INV-01489,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-06-30,2026-07-30,JPY,250092.87,Historical
+INV-00311,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-12-13,2027-01-27,EUR,9516.27,Planned
+INV-00515,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-07-25,2025-09-08,EUR,14092.13,Historical
+INV-00378,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-12-27,2026-01-26,EUR,18633.19,Historical
+INV-00893,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-10-13,2026-11-12,EUR,11227.79,Planned
+INV-00997,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-11-14,2026-12-14,JPY,2351377.43,Planned
+INV-00581,SUP06,Dublin Systems Licensing,IT,Software,2025-07-05,2025-08-04,EUR,2715.95,Historical
+INV-00956,SUP04,Nordlicht Packaging,Operations,Packaging,2026-08-22,2026-09-21,EUR,6948.62,Historical
+INV-00222,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-08-29,2025-10-28,EUR,37139.82,Historical
+INV-01490,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-11-02,2026-12-02,GBP,11312.33,Planned
+INV-00346,SUP04,Nordlicht Packaging,Operations,Packaging,2026-03-27,2026-04-26,EUR,5066.67,Historical
+INV-00026,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-07-12,2026-08-11,GBP,19226.02,Historical
+INV-00423,SUP18,Yokohama Engineering Labs,Operations,Services,2025-03-13,2025-04-12,JPY,1298860.86,Historical
+INV-01208,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-18,2026-05-18,EUR,39638.76,Historical
+INV-00642,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-02-13,2025-03-15,EUR,7899.16,Historical
+INV-00036,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-11-13,2026-12-13,JPY,742723.33,Planned
+INV-00604,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-01-29,2026-02-28,GBP,21224.69,Historical
+INV-00369,SUP13,Osaka Microdevices,Manufacturing,Components,2025-03-19,2025-05-03,JPY,779978.55,Historical
+INV-00006,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-06-24,2025-07-24,GBP,8945.84,Historical
+INV-00836,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-07-17,2025-08-16,GBP,14134.77,Historical
+INV-00921,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-08-28,2025-10-27,EUR,39592.64,Historical
+INV-01455,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-01-30,2025-03-01,EUR,21203.64,Historical
+INV-00308,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-10-22,2025-12-21,GBP,25439.48,Historical
+INV-00846,SUP18,Yokohama Engineering Labs,Operations,Services,2025-07-20,2025-08-19,JPY,456619.32,Historical
+INV-01041,SUP09,Thames Electronics Ltd,,Components,2026-11-11,2026-12-11,GBP,36306.82,Planned
+INV-01152,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-09-11,2025-10-11,EUR,20910.17,Historical
+INV-00931,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-08-03,2026-09-02,GBP,6090.12,Historical
+INV-00879,SUP11,Manchester Cloud Solutions,IT,Software,2026-04-19,2026-05-19,GBP,6110.38,Historical
+INV-00513,SUP13,Osaka Microdevices,Manufacturing,Components,2025-03-10,2025-04-24,JPY,668431.43,Historical
+INV-01111,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-08-20,2025-10-19,GBP,21259.56,Historical
+INV-00975,SUP06,Dublin Systems Licensing,IT,Software,2025-10-15,2025-11-14,EUR,5875.71,Historical
+INV-00158,SUP10,Bristol Calibration Services,Operations,Services,2025-07-12,2025-08-26,GBP,13119.31,Historical
+INV-01016,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-04-05,2026-05-05,EUR,5960.07,Historical
+INV-01233,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-22,2025-08-21,EUR,20775.33,Historical
+INV-00410,SUP13,Osaka Microdevices,Manufacturing,Components,2026-04-14,2026-05-29,JPY,4614848.28,Historical
+INV-01092,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-07-28,2026-08-27,JPY,1041240.67,Historical
+INV-00742,SUP04,Nordlicht Packaging,Operations,Packaging,2025-12-17,2026-01-16,EUR,5019.05,Historical
+INV-00833,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-20,2026-05-20,EUR,39974.49,Historical
+INV-01204,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-29,2026-09-28,EUR,37373.85,Historical
+INV-00661,SUP11,Manchester Cloud Solutions,IT,Software,2026-02-01,2026-03-03,GBP,2752.90,Historical
+INV-01182,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-05-17,2026-07-16,JPY,4193510.33,Historical
+INV-00140,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-06-14,2026-07-14,EUR,4962.32,Historical
+INV-00531,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-10-22,2025-12-21,GBP,16200.38,Historical
+INV-00296,SUP11,Manchester Cloud Solutions,IT,Software,2026-05-20,2026-06-19,GBP,4457.61,Historical
+INV-01070,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-12,2026-09-11,EUR,14024.34,Historical
+INV-01149,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-11-07,2026-12-22,EUR,75101.79,Planned
+INV-01336,SUP04,Nordlicht Packaging,Operations,Packaging,2026-03-03,2026-04-02,EUR,8288.36,Historical
+INV-01018,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-03-14,2026-04-13,EUR,14321.34,Historical
+INV-00312,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-06-28,2025-08-27,JPY,11211875.68,Historical
+INV-01278,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-07-18,2026-08-17,EUR,22339.82,Historical
+INV-00709,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-04-19,2026-06-18,EUR,24587.23,Historical
+INV-00950,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-09-06,2026-10-21,EUR,54891.28,Historical
+INV-00465,SUP18,Yokohama Engineering Labs,Operations,Services,2025-09-02,2025-10-02,JPY,1843919.43,Historical
+INV-00919,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-08-11,2025-10-10,JPY,5457670.41,Historical
+INV-00386,SUP10,Bristol Calibration Services,Operations,Services,2025-12-23,2026-02-06,GBP,6690.84,Historical
+INV-00509,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-07-13,2025-08-12,JPY,1959938.74,Historical
+INV-01171,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-01-29,2026-02-28,GBP,16021.09,Historical
+INV-00374,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-11-14,2026-12-14,GBP,23839.25,Planned
+INV-01163,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-01-16,2025-03-17,JPY,3634421.46,Historical
+INV-01130,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-02-21,2026-03-23,JPY,4053787.73,Historical
+INV-00364,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-05-29,2025-07-28,JPY,4236793.69,Historical
+INV-00002,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-07-17,2025-08-16,JPY,802342.96,Historical
+INV-00756,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-11-12,2026-12-27,EUR,11202.01,Planned
+INV-00495,SUP10,Bristol Calibration Services,Operations,Services,2026-07-17,2026-08-31,GBP,5776.50,Historical
+INV-01446,SUP04,Nordlicht Packaging,Operations,Packaging,2026-10-21,2026-11-20,EUR,8367.86,Planned
+INV-00539,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-26,2025-06-25,GBP,15655.64,Historical
+INV-01029,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-02-15,2026-04-01,EUR,73192.66,Historical
+INV-00446,SUP11,Manchester Cloud Solutions,IT,Software,2025-07-26,2025-08-25,GBP,8573.10,Historical
+INV-00177,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-10-20,2026-11-19,JPY,2161423.46,Planned
+INV-01065,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-10-18,2026-12-17,GBP,27150.92,Planned
+INV-00817,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-12-14,2026-02-12,JPY,5716678.84,Historical
+INV-00775,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-09-29,2026-10-29,EUR,19756.95,Historical
+INV-00686,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-07-13,2025-08-27,JPY,1337860.54,Historical
+INV-01467,SUP13,Osaka Microdevices,Manufacturing,Components,2025-08-07,2025-09-21,JPY,3517180.07,Historical
+INV-00832,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-12-21,2026-01-20,EUR,14113.96,Historical
+INV-00741,SUP06,Dublin Systems Licensing,IT,Software,2025-02-24,2025-03-26,EUR,2498.30,Historical
+INV-00249,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-04-02,2025-05-17,JPY,277381.72,Historical
+INV-00872,SUP04,Nordlicht Packaging,Operations,Packaging,2025-01-10,2025-02-09,EUR,8197.99,Historical
+INV-01476,SUP04,Nordlicht Packaging,Operations,Packaging,2025-03-14,2025-04-13,EUR,4066.62,Historical
+INV-01359,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-08-03,2026-09-02,EUR,33582.42,Historical
+INV-01127,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-02-09,2025-04-10,GBP,26366.71,Historical
+INV-01155,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-02-27,2026-04-28,EUR,18149.11,Historical
+INV-00637,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-03-16,2026-04-15,EUR,40500.22,Historical
+INV-01080,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-06-11,2025-08-10,GBP,7986.13,Historical
+INV-00208,SUP13,Osaka Microdevices,Manufacturing,Components,2026-08-10,2026-09-24,JPY,2136672.86,Historical
+INV-00780,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-03-07,2026-04-06,EUR,19502.69,Historical
+INV-00109,SUP04,Nordlicht Packaging,Operations,Packaging,2025-09-19,2025-10-19,EUR,6207.52,Historical
+INV-00066,SUP02,Alpen Precision Systems,Manufacturing,Equip.,2026-10-22,2026-12-06,EUR,42161.00,Planned
+INV-00592,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-03-03,2025-05-02,EUR,93082.27,Historical
+INV-00933,SUP13,Osaka Microdevices,Manufacturing,Components,2026-09-10,2026-10-25,JPY,"5,364,841.98",Historical
+INV-00413,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-10-27,2026-12-11,JPY,222564.51,Planned
+INV-00941,SUP06,Dublin Systems Licensing,IT,Software,2026-09-22,2026-10-22,EUR,7894.40,Historical
+INV-01160,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-01-27,2026-03-28,GBP,16820.31,Historical
+INV-01376,SUP17,KOBE INDUSTRIAL PACKAGING,Operations,Packaging,2025-06-19,2025-08-03,JPY,547878.89,Historical
+INV-01327,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-02-21,2026-04-07,JPY,1508037.08,Historical
+INV-01089,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-11-17,2025-12-17,EUR,14297.29,Historical
+INV-00703,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-02-24,2025-03-26,EUR,4750.88,Historical
+INV-00949,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-09-02,2026-10-17,EUR,72459.95,Historical
+INV-01494,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-08-17,2026-09-16,JPY,"3,270,909.62",Historical
+INV-00791,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-07-15,2026-08-14,EUR,6369.90,Historical
+INV-01423,SUP13,Osaka Microdevices,,Components,2025-05-31,2025-07-15,JPY,555213.91,Historical
+INV-01122,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-01-01,2025-02-15,EUR,7531.09,Historical
+INV-00488,SUP11,Manchester Cloud Solutions,IT,Software,2025-02-17,2025-03-19,GBP,3502.10,Historical
+INV-01252,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-03-11,2025-04-25,EUR,15167.75,Historical
+INV-00492,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-06-03,2025-07-03,EUR,14680.47,Historical
+INV-00211,SUP10,Bristol Calibration Services,Operations,Services,2026-08-03,2026-09-17,GBP,13333.54,Historical
+INV-00732,SUP04,Nordlicht Packaging,Operations,Packaging,1/10/2026,2026-02-09,EUR,5797.25,Historical
+INV-01104,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-11-25,2025-12-25,EUR,19596.22,Historical
+INV-01232,SUP06,Dublin Systems Licensing,IT,Software,2026-06-18,2026-07-18,EUR,10872.81,Historical
+INV-00342,SUP15,Nagoya Logistics Partners,Operations,Shipping,2025-09-11,2025-10-11,JPY,606340.79,Historical
+INV-00482,SUP10,Bristol Calibration Services,Operations,Services,2025-03-02,2025-04-16,GBP,10883.39,Historical
+INV-00344,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-05-26,2026-06-25,JPY,2005781.24,Historical
+INV-00943,SUP04,Nordlicht Packaging,Operations,Packaging,6/16/2025,2025-07-16,EUR,8625.14,Historical
+INV-00750,SUP13,Osaka Microdevices,Manufacturing,Components,2026-11-19,2027-01-03,JPY,776172.43,Planned
+INV-01437,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-09-14,2026-10-14,EUR,11558.98,Historical
+INV-01144,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-05-17,2026-07-16,JPY,12134135.94,Historical
+INV-00396,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-18,2025-12-18,EUR,2524.76,Historical
+INV-00653,SUP11,Manchester Cloud Solutions,IT,Software,2026-04-29,2026-05-29,GBP,"6,721.44",Historical
+INV-00401,SUP10,Bristol Calibration Services,Operations,Services,2026-11-03,2026-12-18,GBP,8521.20,Planned
+INV-00331,SUP06,Dublin Systems Licensing,IT,Software,2025-10-30,2025-11-29,EUR,"3,457.05",Historical
+INV-01076,SUP04,Nordlicht Packaging,Operations,Packaging,2025-03-19,2025-04-18,EUR,7626.36,Historical
+INV-01012,SUP13,Osaka Microdevices,Manufacturing,Components,2025-06-12,2025-07-27,JPY,3294609.66,Historical
+INV-00819,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-18,2026-08-17,EUR,9411.55,Historical
+INV-00433,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-27,2026-04-13,EUR,17319.96,Historical
+INV-01374,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-07-21,2025-09-04,JPY,1474479.32,Historical
+INV-00074,SUP13,Osaka Microdevices,Manufacturing,Components,2026-10-05,2026-11-19,JPY,2306408.69,Planned
+INV-01315,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-01-09,2025-02-08,EUR,9951.92,Historical
+INV-00821,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-08-23,2025-09-22,GBP,21895.96,Historical
+INV-00543,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-01-25,2026-03-11,EUR,75142.42,Historical
+INV-00221,SUP04,Nordlicht Packaging,Operations,Packaging,2026-04-21,2026-05-21,EUR,4077.56,Historical
+INV-00713,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-07-08,2025-08-07,JPY,1700282.35,Historical
+INV-00116,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-10-12,2026-11-26,EUR,66506.45,Planned
+INV-00415,SUP14,Tokyo Automation Systems,,Equipment,2026-11-24,2027-01-23,JPY,5876418.21,Planned
+INV-01406,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-04-05,2025-05-05,JPY,913171.57,Historical
+INV-00277,SUP11,Manchester Cloud Solutions,IT,Software,2025-04-17,2025-05-17,GBP,6487.03,Historical
+INV-01205,SUP06,Dublin Systems Licensing,IT,Software,2025-10-06,2025-11-05,EUR,9187.82,Historical
+INV-00977,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-07,2025-05-22,EUR,51239.27,Historical
+INV-00754,SUP10,Bristol Calibration Services,Operations,Services,2026-05-10,2026-06-24,GBP,6612.68,Historical
+INV-00940,SUP03,Benelux Sensor Works,Manufacturing,Parts,2026-09-30,2026-10-30,EUR,20906.87,Historical
+INV-01270,SUP04,Nordlicht Packaging,Operations,Packaging,2026-10-04,2026-11-03,EUR,9612.56,Planned
+INV-00594,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-05,2025-06-04,EUR,"13,549.93",Historical
+INV-00049,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-03-11,2026-04-10,JPY,1978829.95,Historical
+INV-00303,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-02-11,2025-03-28,EUR,7880.56,Historical
+INV-00613,SUP06,Dublin Systems Licensing,IT,Software,2025-11-03,2025-12-03,EUR,8695.71,Historical
+INV-00439,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-12-08,2026-01-22,JPY,548768.64,Historical
+INV-00069,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-04-10,2025-05-25,JPY,772976.88,Historical
+INV-00018,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-10-03,2025-11-17,EUR,31593.49,Historical
+INV-00232,SUP13,Osaka Microdevices,Manufacturing,Components,2025-06-22,2025-08-06,JPY,667468.22,Historical
+INV-01061,SUP04,Nordlicht Packaging,Operations,Packaging,2025-05-27,2025-06-26,EUR,13503.76,Historical
+INV-00800,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-10-04,2026-11-03,GBP,9843.30,Planned
+INV-00946,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-11-02,2027-01-01,EUR,67091.49,Planned
+INV-00787,SUP11,Manchester Cloud Solutions,IT,Software,2025-04-15,2025-05-15,GBP,8708.32,Historical
+INV-00681,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-02-13,2025-03-15,EUR,11895.43,Historical
+INV-01416,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-06-23,2026-08-22,GBP,12463.36,Historical
+INV-00294,SUP04,Nordlicht Packaging,Operations,Packaging,2025-05-29,2025-06-28,EUR,2488.75,Historical
+INV-00620,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-09-14,2026-10-14,JPY,4039838.90,Historical
+INV-00323,SUP04,Nordlicht Packaging,Operations,Packaging,2026-06-21,2026-07-21,EUR,6919.61,Historical
+INV-00043,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-06-03,2026-07-18,JPY,892030.00,Historical
+INV-01496,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-04-20,2026-06-04,EUR,38286.95,Historical
+INV-00966,SUP13,Osaka Microdevices,Manufacturing,Components,2025-08-25,2025-10-09,JPY,4398447.99,Historical
+INV-00550,SUP10,Bristol Calibration Services,Operations,Services,2026-01-19,2026-03-05,GBP,10426.59,Historical
+INV-00312,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-12-25,2027-01-24,JPY,486839.99,Planned
+INV-00694,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-06-23,2026-08-07,JPY,1607641.50,Historical
+INV-00164,SUP13,Osaka Microdevices,Manufacturing,Components,2025-12-28,2026-02-11,JPY,2649314.91,Historical
+INV-01323,SUP13,Osaka Microdevices,Manufacturing,Components,2026-07-29,2026-09-12,JPY,3252871.09,Historical
+INV-00310,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-07-04,2026-08-03,JPY,1169908.44,Historical
+INV-00768,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-10-18,2025-12-02,EUR,27911.11,Historical
+INV-00329,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-03-12,2026-04-26,JPY,446201.94,Historical
+INV-00978,SUP04,Nordlicht Packaging,Operations,Packaging,2026-12-08,2027-01-07,EUR,1876.46,Planned
+INV-01389,SUP06,Dublin Systems Licensing,IT,Software,2026-02-11,2026-03-13,EUR,5254.62,Historical
+INV-01436,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-08-10,2025-09-09,EUR,22576.26,Historical
+INV-00146,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-11,2026-12-11,EUR,22298.29,Planned
+INV-01112,SUP11,Manchester Cloud Solutions,IT,Software,2026-12-14,2027-01-13,GBP,"4,409.18",Planned
+INV-00714,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-10-11,2025-11-25,EUR,22324.36,Historical
+INV-00663,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-01-25,2026-02-24,JPY,1036122.98,Historical
+INV-00859,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-11-06,2026-12-21,EUR,15928.68,Planned
+INV-00926,SUP13,Osaka Microdevices,Manufacturing,Components,2025-02-21,2025-04-07,JPY,3247067.81,Historical
+INV-00937,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-23,2026-10-23,EUR,13344.74,Historical
+INV-00141,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-02-02,2026-03-19,EUR,16743.65,Historical
+INV-01168,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-07,2025-03-09,JPY,3727188.17,Historical
+INV-01254,SUP04,nordlicht packaging,Operations,Packaging,2026-10-29,2026-11-28,EUR,8277.79,Planned
+INV-00259,SUP04,Nordlicht Packaging,Operations,Packaging,2025-07-31,2025-08-30,EUR,11988.67,Historical
+INV-00806,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-11-05,2025-12-05,EUR,39283.45,Historical
+INV-00030,SUP11,Manchester Cloud Solutions,IT,Software,2025-10-15,2025-11-14,GBP,3512.95,Historical
+INV-00885,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-01-30,2026-03-01,EUR,24745.05,Historical
+INV-01281,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-01-26,2025-02-25,EUR,7738.18,Historical
+INV-00729,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-17,2025-03-19,JPY,919707.99,Historical
+INV-01026,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-03-01,2026-04-15,EUR,26326.70,Historical
+INV-01066,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-03-16,2026-04-15,EUR,20716.90,Historical
+INV-00981,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-06,2025-08-05,EUR,22351.11,Historical
+INV-00082,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-06-19,2026-08-03,JPY,136358.23,Historical
+INV-00388,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-02,2025-12-02,EUR,16016.59,Historical
+INV-01345,SUP18,Yokohama Engineering Labs,Operations,Services,2026-06-19,2026-07-19,JPY,1585016.55,Historical
+INV-00231,SUP06,Dublin Systems Licensing,IT,Software,2026-12-31,2027-01-30,EUR,6825.07,Planned
+INV-00367,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-11-14,2027-01-13,EUR,"80,286.52",Planned
+INV-00553,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-02-11,2026-03-28,JPY,771900.75,Historical
+INV-01410,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-02-04,2025-03-21,EUR,63916.53,Historical
+INV-01472,SUP13,Osaka Microdevices,Manufacturing,Components,2026-03-30,2026-05-14,JPY,2562853.76,Historical
+INV-00824,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-11,2025-08-10,EUR,11027.12,Historical
+INV-01231,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-02-21,2025-03-23,EUR,5273.07,Historical
+INV-01088,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-10-13,2025-11-12,EUR,22494.14,Historical
+INV-01465,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-07-10,2026-08-09,EUR,16570.33,Historical
+INV-01379,SUP13,Osaka Microdevices,Manufacturing,Components,2026-02-18,2026-04-04,JPY,2001849.18,Historical
+INV-00289,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-12-15,2027-01-14,GBP,36123.78,Planned
+INV-00154,SUP10,Bristol Calibration Services,Operations,Services,2026-06-23,2026-08-07,GBP,14623.21,Historical
+INV-01431,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-02-13,2025-03-30,EUR,15379.43,Historical
+INV-00738,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-10-02,2025-11-01,GBP,14466.94,Historical
+INV-00490,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-29,,EUR,16005.38,Planned
+INV-01124,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-03-04,2025-05-03,EUR,72076.11,Historical
+INV-00046,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-07-31,2026-08-30,JPY,3764835.97,Historical
+INV-00080,SUP13,Osaka Microdevices,Manufacturing,Components,2025-11-28,2026-01-12,JPY,6281353.65,Historical
+INV-00619,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-08-07,2026-10-06,GBP,9570.76,Historical
+INV-00611,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-08-25,2025-09-24,JPY,281405.31,Historical
+INV-00505,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-09,2025-06-08,GBP,18689.85,Historical
+INV-00987,SUP13,Osaka Microdevices,Manufacturing,Components,2026-01-10,2026-02-24,JPY,866710.42,Historical
+INV-00253,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-22,2025-05-22,GBP,12125.70,Historical
+INV-00762,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-03-16,2026-04-30,EUR,26318.06,Historical
+INV-01187,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-09-20,2025-11-19,EUR,86265.54,Historical
+INV-00358,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-22,2025-06-21,EUR,10974.45,Historical
+INV-00137,SUP06,Dublin Systems Licensing,IT,Software,2026-08-14,2026-09-13,EUR,1880.89,Historical
+INV-01045,SUP11,Manchester Cloud Solutions,IT,Software,2025-04-07,2025-05-07,GBP,5287.14,Historical
+INV-00463,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-06-10,2025-08-09,GBP,10756.72,Historical
+INV-00125,SUP13,Osaka Microdevices,Manufacturing,Components,2025-04-28,2025-06-12,JPY,1910461.60,Historical
+INV-00335,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-04-13,2026-05-28,EUR,5008.63,Historical
+INV-01368,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-03-13,2025-04-12,EUR,3092.68,Historical
+INV-01009,SUP18,Yokohama Engineering Labs,Operations,Services,2026-12-30,2027-01-29,JPY,3151964.27,Planned
+INV-01430,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-10-14,2026-11-28,EUR,24070.90,Planned
+INV-00288,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-12-24,2026-02-22,JPY,3610222.04,Historical
+INV-00233,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-31,2026-08-30,EUR,34319.64,Historical
+INV-00596,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-03-15,2026-04-29,JPY,1603409.92,Historical
+INV-01216,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-06-03,2026-07-03,JPY,1859141.71,Historical
+INV-01242,SUP12,Oxford Technical Materials,,Components,2025-12-17,2026-02-15,GBP,14867.67,Historical
+INV-01100,SUP13,Osaka Microdevices,Manufacturing,Components,2026-03-14,2026-04-28,JPY,1131783.54,Historical
+INV-00534,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-01-21,2026-03-22,EUR,37576.03,Historical
+INV-01481,SUP18,Yokohama Engineering Labs,Operations,Services,2026-04-05,2026-05-05,JPY,1988529.16,Historical
+INV-00068,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-03-26,2025-05-10,EUR,"27,344.21",Historical
+INV-00366,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-08-13,2026-09-27,EUR,38229.73,Historical
+INV-00258,SUP18,Yokohama Engineering Labs,Operations,Services,2026-05-21,2026-06-20,JPY,968246.57,Historical
+INV-01321,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-05-24,2026-07-08,JPY,1324692.68,Historical
+INV-00789,SUP06,Dublin Systems Licensing,IT,Software,2025-05-16,2025-06-15,EUR,9313.97,Historical
+INV-01096,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-10-24,2025-11-23,JPY,1048407.21,Historical
+INV-00761,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-09-09,2026-10-24,EUR,4797.14,Historical
+INV-00632,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-01-20,2026-03-06,EUR,8040.23,Historical
+INV-00356,SUP11,Manchester Cloud Solutions,IT,Software,2026-04-02,2026-05-02,GBP,2999.05,Historical
+INV-00744,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-10-19,2026-12-18,JPY,6574219.23,Planned
+INV-00120,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-05-03,2026-06-02,JPY,2431242.68,Historical
+INV-00486,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-04-25,2026-06-24,JPY,3311226.63,Historical
+INV-01192,SUP06,Dublin Systems Licensing,IT,Software,2025-12-09,2026-01-08,EUR,6184.87,Historical
+INV-01058,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-02-19,2026-04-20,GBP,7983.46,Historical
+INV-00711,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-11-01,2025-12-16,EUR,62891.69,Historical
+INV-01303,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-03-20,2026-05-04,EUR,54670.78,Historical
+INV-01234,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-01-02,2025-02-01,JPY,294843.63,Historical
+INV-00218,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-01-01,2026-01-31,EUR,41558.60,Historical
+INV-00262,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-03-18,2026-04-17,EUR,8523.14,Historical
+INV-00382,SUP11,Manchester Cloud Solutions,IT,Software,2025-11-05,2025-12-05,GBP,11020.35,Historical
+INV-00484,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-07-21,2025-09-04,EUR,8480.21,Historical
+INV-00902,SUP18,Yokohama Engineering Labs,Operations,Services,2025-01-25,2025-02-24,JPY,1521223.00,Historical
+INV-01019,SUP11,Manchester Cloud Solutions,IT,Software,2025-05-08,2025-06-07,GBP,4169.49,Historical
+INV-00357,SUP18,Yokohama Engineering Labs,Operations,Services,2025-08-27,2025-09-26,JPY,1482865.61,Historical
+INV-00508,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-05-11,2026-07-10,GBP,27423.68,Historical
+INV-01133,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-04-06,2026-05-21,JPY,921320.04,Historical
+INV-00781,SUP04,Nordlicht Packaging,Operations,Packaging,2025-02-03,2025-03-05,EUR,2521.27,Historical
+INV-00766,SUP13,Osaka Microdevices,Manufacturing,Components,2026-06-14,2026-07-29,JPY,6764078.08,Historical
+INV-01049,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-06,2025-05-06,GBP,6669.31,Historical
+INV-00916,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-19,2026-04-05,EUR,31181.06,Historical
+INV-01387,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-03-13,2026-04-12,EUR,17704.09,Historical
+INV-00511,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-06-07,2025-07-07,EUR,24969.22,Historical
+INV-00915,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-03-01,2025-03-31,JPY,2404302.16,Historical
+INV-00993,SUP06,Dublin Systems Licensing,IT,Software,2025-02-07,2025-03-09,EUR,4191.18,Historical
+INV-00128,SUP04,Nordlicht Packaging,Operations,Packaging,2026-02-14,2026-03-16,EUR,7978.19,Historical
+INV-00332,SUP04,Nordlicht Packaging,Operations,Packaging,2026-10-11,2026-11-10,EUR,7229.56,Planned
+INV-00098,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-03-12,2025-04-26,EUR,43985.74,Historical
+INV-00467,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-11-25,2025-12-25,JPY,907803.97,Historical
+INV-00189,SUP13,Osaka Microdevices,Manufacturing,Components,2026-08-04,2026-09-18,JPY,3850722.83,Historical
+INV-01007,SUP04,Nordlicht Packaging,Operations,Packaging,2026-03-04,2026-04-03,EUR,6451.26,Historical
+INV-00792,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-10-27,2026-12-26,EUR,20144.60,Planned
+INV-00967,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-09-04,2025-10-04,EUR,32549.49,Historical
+INV-00103,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-06-30,2026-08-29,EUR,15097.73,Historical
+INV-01177,SUP13,Osaka Microdevices,Manufacturing,Components,2025-08-19,2025-10-03,JPY,"4,071,437.05",Historical
+INV-00327,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-06-03,2026-08-02,EUR,80405.05,Historical
+INV-00575,SUP06,Dublin Systems Licensing,IT,Software,2026-08-24,2026-09-23,EUR,8673.54,Historical
+INV-00705,SUP13,Osaka Microdevices,Manufacturing,Components,2026-09-15,2026-10-30,JPY,1918261.26,Historical
+INV-00360,SUP11,Manchester Cloud Solutions,IT,Software,2025-10-16,2025-11-15,GBP,7392.15,Historical
+INV-00520,SUP06,Dublin Systems Licensing,IT,Software,2026-06-21,2026-07-21,EUR,1749.78,Historical
+INV-00706,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-05-26,2026-06-25,EUR,30577.15,Historical
+INV-00724,SUP04,Nordlicht Packaging,Operations,Packaging,2025-03-30,2025-04-29,EUR,10758.59,Historical
+INV-01219,SUP13,Osaka Microdevices,Manufacturing,Components,2025-12-26,2026-02-09,JPY,4977004.64,Historical
+INV-00383,SUP04,Nordlicht Packaging,Operations,Packaging,2025-11-19,2025-12-19,EUR,6030.59,Historical
+INV-01173,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-06-07,2025-07-07,EUR,9056.26,Historical
+INV-01174,SUP13,Osaka Microdevices,Manufacturing,Components,2025-06-17,2025-08-01,JPY,4133441.75,Historical
+INV-00042,SUP04,Nordlicht Packaging,Operations,Packaging,2025-05-23,2025-06-22,EUR,6774.46,Historical
+INV-01439,SUP13,Osaka Microdevices,Manufacturing,Components,2026-09-26,,JPY,932901.61,Historical
+INV-00455,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-04-19,2026-06-03,JPY,361154.64,Historical
+INV-00071,SUP18,Yokohama Engineering Labs,Operations,Services,2026-07-22,2026-08-21,JPY,2265686.00,Historical
+INV-00470,SUP04,Nordlicht Packaging,Operations,Packaging,2025-09-27,2025-10-27,EUR,2870.28,Historical
+INV-01283,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-09-22,2025-11-06,EUR,21277.24,Historical
+INV-00816,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-05-31,2025-06-30,JPY,904463.09,Historical
+INV-00725,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-10-05,2025-11-04,GBP,24962.97,Historical
+INV-00183,SUP11,Manchester Cloud Solutions,IT,Software,2025-09-30,2025-10-30,GBP,4803.07,Historical
+INV-00475,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-09-07,2025-10-07,JPY,1011876.56,Historical
+INV-00904,SUP10,Bristol Calibration Services,Operations,Services,2026-05-07,2026-06-21,GBP,13106.54,Historical
+INV-00130,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-08-19,2026-09-18,JPY,2220417.69,Historical
+INV-00561,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-11-24,2026-12-24,JPY,2642463.96,Planned
+INV-01052,SUP13,Osaka Microdevices,Manufacturing,Components,2025-11-04,2025-12-19,JPY,2661181.08,Historical
+INV-00735,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-03-13,2026-04-12,GBP,29501.97,Historical
+INV-00425,SUP10,Bristol Calibration Services,Operations,Services,2026-03-31,2026-05-15,GBP,15333.64,Historical
+INV-01037,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-02-15,2025-03-17,GBP,6892.21,Historical
+INV-00516,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-02-02,2026-04-03,EUR,16297.62,Historical
+INV-01305,SUP10,Bristol Calibration Services,Operations,Services,2025-08-31,2025-10-15,GBP,1402.49,Historical
+INV-00235,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-05-06,2025-06-05,JPY,635264.03,Historical
+INV-01013,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-12-26,2027-02-09,JPY,1360620.52,Planned
+INV-01176,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-05-17,2025-06-16,EUR,24490.61,Historical
+INV-00198,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-11-22,2025-12-22,EUR,9337.57,Historical
+INV-01015,SUP06,Dublin Systems Licensing,IT,Software,2025-07-26,2025-08-25,EUR,10085.70,Historical
+INV-01486,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-02-07,2026-03-09,JPY,3075447.86,Historical
+INV-00196,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-01-28,2026-02-27,EUR,11789.89,Historical
+INV-01220,SUP13,Osaka Microdevices,Manufacturing,Components,2025-01-26,2025-03-12,JPY,836510.30,Historical
+INV-00958,SUP01,Rhein Circuit Components,,Components,2025-04-13,2025-05-13,EUR,15224.59,Historical
+INV-00194,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-05-03,2025-07-02,GBP,13166.07,Historical
+INV-00796,SUP18,Yokohama Engineering Labs,Operations,Services,2025-06-04,2025-07-04,JPY,831343.00,Historical
+INV-00044,SUP04,Nordlicht Packaging,Operations,Packaging,2026-02-06,2026-03-08,EUR,2435.43,Historical
+INV-00679,SUP04,Nordlicht Packaging,Operations,Packaging,2026-03-31,2026-04-30,EUR,3417.17,Historical
+INV-00530,SUP18,Yokohama Engineering Labs,Operations,Services,2025-02-17,2025-03-19,JPY,2399045.48,Historical
+INV-00984,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-05-22,2026-07-06,EUR,17516.47,Historical
+INV-00626,SUP04,Nordlicht Packaging,Operations,Packaging,2026-12-17,2027-01-16,EUR,9183.48,Planned
+INV-00316,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-31,2025-06-30,EUR,12455.41,Historical
+INV-01090,SUP10,Bristol Calibration Services,Operations,Services,2026-11-15,2026-12-30,GBP,11941.22,Planned
+INV-00096,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-08-21,2026-09-20,EUR,14368.85,Historical
+INV-00951,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-03-12,2025-04-11,JPY,2004398.28,Historical
+INV-01339,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-03-22,2025-05-21,EUR,61936.96,Historical
+INV-00206,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-06-07,2025-08-06,GBP,9039.24,Historical
+INV-00801,SUP04,Nordlicht Packaging,Operations,Packaging,2026-12-04,2027-01-03,EUR,4560.41,Planned
+INV-01054,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-07-25,2026-08-24,GBP,17541.26,Historical
+INV-01457,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-24,2026-09-23,EUR,8035.89,Historical
+INV-01350,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-05-26,2025-07-25,GBP,14476.65,Historical
+INV-01025,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-03-12,2025-04-11,EUR,5662.03,Historical
+INV-00627,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-11-28,2025-12-28,EUR,53956.80,Historical
+INV-00318,SUP11,Manchester Cloud Solutions,IT,Software,2026-09-25,2026-10-25,GBP,6013.83,Historical
+INV-01361,SUP01,Rhein Circuit Components,Manufacturing,Parts,2025-06-19,2025-07-19,EUR,11620.08,Historical
+INV-01411,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-10-02,2025-11-01,EUR,7161.98,Historical
+INV-00691,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-29,2025-06-28,EUR,20321.94,Historical
+INV-00843,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-10-02,2025-11-01,JPY,952636.41,Historical
+INV-00526,SUP13,Osaka Microdevices,Manufacturing,Components,2026-02-13,2026-03-30,JPY,6149269.04,Historical
+INV-00270,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-10-20,2026-11-19,GBP,17386.09,Planned
+INV-00823,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-09-15,2026-10-15,EUR,16438.37,Historical
+INV-01395,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-05-12,2025-06-26,EUR,36694.05,Historical
+INV-00911,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-07-06,2026-08-05,EUR,7524.93,Historical
+INV-01136,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-06-29,2026-08-13,EUR,26373.24,Historical
+INV-01448,SUP13,Osaka Microdevices,Manufacturing,Components,2026-05-15,2026-06-29,JPY,2341652.57,Historical
+INV-00897,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-11-11,2025-12-11,JPY,1483611.36,Historical
+INV-00063,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-03-11,2025-04-25,EUR,12596.84,Historical
+INV-01337,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-10-07,2026-11-06,EUR,22931.24,Planned
+INV-00243,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-03-20,2025-05-04,EUR,29191.33,Historical
+INV-01038,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-04-01,2026-05-01,GBP,23077.21,Historical
+INV-00424,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-09-08,2026-10-08,GBP,6605.87,Historical
+INV-00255,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-02-06,2025-03-23,EUR,31031.44,Historical
+INV-00676,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-10-30,2025-11-29,GBP,13016.80,Historical
+INV-00577,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-09-10,2026-10-25,EUR,24031.90,Historical
+INV-00370,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-12,2026-10-12,EUR,19877.47,Historical
+INV-00272,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-06-07,2025-08-06,JPY,4780895.83,Historical
+INV-00625,SUP18,Yokohama Engineering Labs,Operations,Services,2026-06-13,2026-07-13,JPY,1227951.78,Historical
+INV-00162,SUP06,Dublin Systems Licensing,IT,Software,2026-07-03,2026-08-02,EUR,3485.19,Historical
+INV-00336,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-04-16,2025-06-15,EUR,46110.88,Historical
+INV-01402,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-02-17,2026-04-18,GBP,10070.21,Historical
+INV-00199,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-01-25,2026-03-26,EUR,73927.63,Historical
+INV-01355,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-08-02,2026-10-01,JPY,11427496.23,Historical
+INV-00283,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-07-14,2026-09-12,EUR,37820.66,Historical
+INV-00149,SUP04,NORDLICHT PACKAGING,Operations,Packaging,2026-12-02,2027-01-01,EUR,9237.74,Planned
+INV-01120,SUP13,Osaka Microdevices,Manufacturing,Components,2026-09-16,2026-10-31,JPY,4180541.17,Historical
+INV-00265,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-06-02,2025-08-01,GBP,2732.74,Historical
+INV-00892,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-05-07,2025-06-06,EUR,8684.11,Historical
+INV-00195,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-01-09,2025-02-08,EUR,24837.32,Historical
+INV-00180,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-04-28,2026-06-27,GBP,2365.29,Historical
+INV-01024,SUP13,Osaka Microdevices,Manufacturing,Components,2025-05-03,2025-06-17,JPY,2961354.36,Historical
+INV-00477,SUP06,Dublin Systems Licensing,IT,Software,2025-02-17,2025-03-19,EUR,2983.24,Historical
+INV-00667,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-31,2026-09-30,EUR,34131.28,Historical
+INV-01290,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-03-06,2025-04-05,EUR,21208.73,Historical
+INV-00723,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-09-18,2025-11-02,EUR,53464.64,Historical
+INV-00281,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-11-09,2027-01-08,EUR,72033.21,Planned
+INV-01375,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-12-10,2026-01-24,EUR,68444.25,Historical
+INV-01474,SUP18,Yokohama Engineering Labs,Operations,Services,2026-10-17,2026-11-16,JPY,443336.67,Planned
+INV-00607,SUP04,Nordlicht Packaging,Operations,Packaging,2025-12-30,2026-01-29,EUR,10397.68,Historical
+INV-01118,SUP18,Yokohama Engineering Labs,Operations,Services,2026-06-08,2026-07-08,JPY,1184154.79,Historical
+INV-00220,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-07-20,2025-09-03,EUR,74522.15,Historical
+INV-01396,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-02,2026-03-19,EUR,4750.71,Historical
+INV-00037,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-10-24,2026-12-23,JPY,10974087.33,Planned
+INV-00421,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-05-13,2026-06-12,EUR,17105.92,Historical
+INV-00065,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-03-30,2026-04-29,EUR,42487.90,Historical
+INV-00698,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-07-06,2025-08-05,JPY,1326438.16,Historical
+INV-01040,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-04-14,2025-05-14,EUR,5681.20,Historical
+INV-00985,SUP04,Nordlicht Packaging,Operations,Packaging,2026-01-23,2026-02-22,EUR,8663.42,Historical
+INV-00133,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-04-27,2025-06-26,JPY,13193857.47,Historical
+INV-01259,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-12-01,2026-01-30,EUR,30789.77,Historical
+INV-00860,SUP04,Nordlicht Packaging,Operations,Packaging,2026-06-07,2026-07-07,EUR,4783.10,Historical
+INV-00866,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-07-11,2026-09-09,JPY,7265785.05,Historical
+INV-00826,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-01-28,2025-02-27,EUR,18959.07,Historical
+INV-00730,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-08-01,2025-08-31,JPY,3571762.86,Historical
+INV-00267,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-07-17,2026-08-31,EUR,17065.99,Historical
+INV-00827,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-12-26,2027-01-25,JPY,817870.40,Planned
+INV-00213,SUP04,Nordlicht Packaging,Operations,Packaging,2026-11-18,2026-12-18,EUR,6166.32,Planned
+INV-00007,SUP08,Valencia Circuit Supply,,Components,2026-09-23,2026-10-23,EUR,2169.68,Historical
+INV-01129,SUP13,Osaka Microdevices,Manufacturing,Components,2026-02-07,2026-03-24,JPY,2579912.75,Historical
+INV-00287,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-07-09,2025-08-08,JPY,2452158.31,Historical
+INV-00254,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-10-23,2026-12-07,EUR,24189.27,Planned
+INV-01433,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-12-05,2027-01-04,EUR,9362.83,Planned
+INV-01147,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-07-17,2025-08-16,GBP,27503.79,Historical
+INV-01198,SUP04,NORDLICHT PACKAGING,Operations,Packaging,2026-10-09,2026-11-08,EUR,8397.04,Planned
+INV-01400,SUP10,Bristol Calibration Services,Operations,Services,2025-11-02,2025-12-17,GBP,2180.47,Historical
+INV-00763,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-11,2026-09-10,EUR,31680.99,Historical
+INV-00035,SUP10,Bristol Calibration Services,Operations,Services,2026-12-21,2027-02-04,GBP,7264.20,Planned
+INV-01213,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-01-31,2026-03-17,JPY,1373403.79,Historical
+INV-01482,SUP11,Manchester Cloud Solutions,IT,Software,2025-06-22,2025-07-22,GBP,1793.48,Historical
+INV-01004,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-05-14,2026-06-13,EUR,22943.87,Historical
+INV-00330,SUP11,Manchester Cloud Solutions,IT,Software,2025-08-13,2025-09-12,GBP,6984.04,Historical
+INV-00645,SUP13,Osaka Microdevices,Manufacturing,Components,2026-03-07,2026-04-21,JPY,2660750.68,Historical
+INV-00882,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-08-07,2025-09-06,JPY,623341.55,Historical
+INV-00765,SUP10,Bristol Calibration Services,Operations,Services,2025-05-13,2025-06-27,GBP,14034.04,Historical
+INV-00851,SUP06,Dublin Systems Licensing,IT,Software,2025-08-23,2025-09-22,EUR,1676.16,Historical
+INV-00449,SUP10,Bristol Calibration Services,Operations,Services,2025-04-27,2025-06-11,GBP,14760.26,Historical
+INV-00334,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-12-09,2027-01-08,JPY,2166248.81,Planned
+INV-01317,SUP18,Yokohama Engineering Labs,Operations,Services,2026-01-08,2026-02-07,JPY,508821.65,Historical
+INV-00212,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-07-16,,EUR,7285.15,Historical
+INV-00695,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-25,2026-04-11,EUR,21330.82,Historical
+INV-00965,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-12-20,2026-01-19,GBP,22774.54,Historical
+INV-00952,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-02-11,2026-03-13,JPY,2370987.38,Historical
+INV-00333,SUP11,Manchester Cloud Solutions,IT,Software,2026-12-08,2027-01-07,GBP,7624.72,Planned
+INV-00565,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-03-03,2025-05-02,EUR,66547.59,Historical
+INV-00377,SUP04,Nordlicht Packaging,Operations,Packaging,2025-02-14,2025-03-16,EUR,16085.93,Historical
+INV-00808,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-02,2025-08-01,EUR,22475.98,Historical
+INV-01458,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-06-21,2026-08-20,JPY,11667556.42,Historical
+INV-00365,SUP13,Osaka Microdevices,Manufacturing,Components,2025-09-04,2025-10-19,JPY,797002.33,Historical
+INV-00481,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-06-05,2025-07-20,EUR,14319.57,Historical
+INV-00719,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-02,2026-09-01,EUR,30048.05,Historical
+INV-01366,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-10-30,2025-11-29,EUR,19129.57,Historical
+INV-00351,SUP13,Osaka Microdevices,Manufacturing,Components,2026-01-20,2026-03-06,JPY,2341537.13,Historical
+INV-00420,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-11-05,2025-12-05,EUR,15931.61,Historical
+INV-01442,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-03-05,2026-04-04,JPY,3516031.77,Historical
+INV-00138,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-06-17,2026-08-01,EUR,51832.31,Historical
+INV-01450,SUP18,Yokohama Engineering Labs,Operations,Service,2026-01-27,2026-02-26,JPY,1943162.02,Historical
+INV-00657,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-09-04,2026-10-19,JPY,465992.40,Historical
+INV-01497,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-10-25,2025-11-24,EUR,8072.58,Historical
+INV-00675,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-03-30,2025-04-29,JPY,2346794.84,Historical
+INV-01044,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-03-30,2026-04-29,JPY,488494.56,Historical
+INV-00064,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-05-26,2026-07-10,EUR,40612.19,Historical
+INV-01196,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-11-22,2026-01-21,GBP,13995.21,Historical
+INV-00139,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-04-20,2026-05-20,EUR,26339.11,Historical
+INV-00968,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-02-18,2025-03-20,GBP,5850.23,Historical
+INV-01031,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-06-02,2026-07-17,EUR,27067.74,Historical
+INV-00361,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-13,2026-03-30,EUR,17074.34,Historical
+INV-00532,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-13,2026-09-12,EUR,40467.94,Historical
+INV-01082,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-01-17,2025-03-18,JPY,3626850.02,Historical
+INV-00922,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-10-04,2025-11-03,JPY,1821346.70,Historical
+INV-01001,SUP06,Dublin Systems Licensing,IT,Software,2026-05-23,2026-06-22,EUR,15206.13,Historical
+INV-01289,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-08-25,2026-10-09,EUR,54707.00,Historical
+INV-00297,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-10-04,2026-11-03,EUR,9372.51,Planned
+INV-00469,SUP13,Osaka Microdevices,Manufacturing,Components,2026-10-30,2026-12-14,JPY,3926248.44,Planned
+INV-00557,SUP13,Osaka Microdevices,Manufacturing,Components,2026-05-16,2026-06-30,JPY,4867397.82,Historical
+INV-01023,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-30,2025-06-14,EUR,79876.87,Historical
+INV-00857,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-01-12,2025-03-13,GBP,24078.02,Historical
+INV-00417,SUP04,Nordlicht Packaging,Operations,Packaging,2026-09-24,2026-10-24,EUR,2289.62,Historical
+INV-01071,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-10-18,2026-11-17,GBP,"6,542.23",Planned
+INV-00764,SUP18,Yokohama Engineering Labs,Operations,Services,2025-10-28,2025-11-27,JPY,1881756.00,Historical
+INV-00549,SUP06,Dublin Systems Licensing,IT,Software,2026-10-15,2026-11-14,EUR,4273.32,Planned
+INV-01438,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-02-18,2025-03-20,GBP,10528.35,Historical
+INV-01329,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-02-08,2026-03-10,JPY,365217.67,Historical
+INV-01341,SUP04,Nordlicht Packaging,Operations,Packaging,2026-02-26,2026-03-28,EUR,9796.32,Historical
+INV-01034,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-12-17,2026-01-16,JPY,1460263.29,Historical
+INV-00871,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-11-27,2025-12-27,GBP,14330.81,Historical
+INV-00178,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-23,2025-03-25,JPY,3195095.69,Historical
+INV-00658,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-07-30,2026-08-29,EUR,26019.67,Historical
+INV-00540,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-03-20,2026-05-19,GBP,3724.84,Historical
+INV-00055,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-08-10,2025-09-09,GBP,23323.23,Historical
+INV-00914,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-08-04,,JPY,622394.85,Historical
+INV-01036,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-07-15,2025-09-13,GBP,21324.92,Historical
+INV-01006,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-11,2026-03-28,EUR,5688.49,Historical
+INV-00811,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-10-31,2025-11-30,GBP,25671.84,Historical
+INV-01150,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-07-28,2025-09-26,JPY,9533954.95,Historical
+INV-01407,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-06-10,2025-07-25,JPY,791668.38,Historical
+INV-00280,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-05-24,2026-06-23,GBP,30359.47,Historical
+INV-00160,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-05-07,2025-06-21,EUR,26897.79,Historical
+INV-00769,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-09-21,2025-11-20,JPY,8220534.74,Historical
+INV-01325,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-02-18,2025-03-20,GBP,10873.21,Historical
+INV-00552,SUP04,Nordlicht Packaging,Operations,Packaging,2025-09-13,2025-10-13,EUR,5167.33,Historical
+INV-00998,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-07-19,2025-08-18,EUR,20461.45,Historical
+INV-00891,SUP04,Nordlicht Packaging,Operations,Packaging,2025-03-24,2025-04-23,EUR,5586.46,Historical
+INV-00091,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-07,2025-08-06,EUR,41553.85,Historical
+INV-01330,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-01-24,2026-02-23,GBP,8278.72,Historical
+INV-00014,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-02,2025-05-02,GBP,26754.59,Historical
+INV-00535,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-04-20,2025-05-20,EUR,3057.05,Historical
+INV-00699,SUP06,Dublin Systems Licensing,IT,Software,2026-07-17,2026-08-16,EUR,3547.87,Historical
+INV-00685,SUP06,Dublin Systems Licensing,IT,Software,2025-12-23,2026-01-22,EUR,6316.31,Historical
+INV-01137,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-07-14,2026-09-12,GBP,18764.42,Historical
+INV-00970,SUP13,Osaka Microdevices,Manufacturing,Components,2025-01-23,2025-03-09,JPY,2148575.77,Historical
+INV-00468,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-03-24,2026-04-23,EUR,25810.69,Historical
+INV-00203,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-05-14,2025-07-13,JPY,8474925.34,Historical
+INV-01260,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-03-16,2026-04-15,EUR,5896.64,Historical
+INV-01097,SUP04,Nordlicht Packaging,Operations,Packaging,2025-07-19,2025-08-18,EUR,2611.42,Historical
+INV-00803,SUP06,Dublin Systems Licensing,IT,Software,2026-06-16,2026-07-16,EUR,3577.82,Historical
+INV-01377,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-09-13,2026-10-13,EUR,47346.65,Historical
+INV-00276,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-14,2025-05-14,GBP,4096.48,Historical
+INV-00448,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-02-09,2026-03-26,EUR,52130.13,Historical
+INV-01282,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-04-29,2025-05-29,EUR,17102.77,Historical
+INV-00184,SUP18,Yokohama Engineering Labs,Operations,Services,2026-07-24,2026-08-23,JPY,1494290.56,Historical
+INV-00813,SUP13,Osaka Microdevices,Manufacturing,Components,2026-10-19,2026-12-03,JPY,4046767.01,Planned
+INV-00809,SUP04,Nordlicht Packaging,Operations,Packaging,2025-02-22,2025-03-24,EUR,7619.30,Historical
+INV-01258,SUP11,Manchester Cloud Solutions,IT,Software,2026-11-03,2026-12-03,GBP,10252.86,Planned
+INV-01475,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-06-08,2025-07-08,JPY,884547.13,Historical
+INV-00223,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-01-13,2026-02-12,GBP,8690.43,Historical
+INV-01372,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-07-01,2026-08-15,EUR,60070.79,Historical
+INV-00726,SUP10,BRISTOL CALIBRATION SERVICES,Operations,Services,2026-11-09,2026-12-24,GBP,11658.58,Planned
+INV-00728,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-05-22,2025-06-21,JPY,2506139.79,Historical
+INV-00230,SUP13,Osaka Microdevices,Manufacturing,Components,2025-10-07,2025-11-21,JPY,3427851.17,Historical
+INV-00868,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-06-17,2026-08-01,EUR,15761.14,Historical
+INV-01378,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-07-05,2025-09-03,JPY,10407117.34,Historical
+INV-00376,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-12-20,2027-01-19,GBP,19486.42,Planned
+INV-00061,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-22,2026-08-21,EUR,28792.69,Historical
+INV-00579,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-11-18,2025-12-18,JPY,1631246.99,Historical
+INV-01148,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-09-21,2025-10-21,GBP,24447.90,Historical
+INV-01340,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-03-20,2025-04-19,GBP,5557.93,Historical
+INV-00795,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-08-06,2026-10-05,EUR,87591.30,Historical
+INV-00721,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-09,2026-09-08,EUR,24897.59,Historical
+INV-01105,SUP18,Yokohama Engineering Labs,Operations,Services,2025-07-06,2025-08-05,JPY,3090945.32,Historical
+INV-00701,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-02-21,2026-04-07,JPY,974629.46,Historical
+INV-01194,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-02-19,2026-04-05,EUR,22422.19,Historical
+INV-00225,SUP13,Osaka Microdevices,Manufacturing,Components,2025-03-13,2025-04-27,JPY,5176259.58,Historical
+INV-00912,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-06-01,2026-07-01,EUR,35842.55,Historical
+INV-00134,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-03-02,2025-04-01,GBP,15477.98,Historical
+INV-00414,SUP13,Osaka Microdevices,Manufacturing,Components,2026-08-29,2026-10-13,JPY,1382932.53,Historical
+INV-01324,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-11-24,2026-12-24,EUR,7822.97,Planned
+INV-00168,SUP13,Osaka Microdevices,Manufacturing,Components,2026-09-18,2026-11-02,JPY,1406493.30,Historical
+INV-01418,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-06-17,2026-07-17,JPY,2298302.32,Historical
+INV-00751,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-07-01,2025-07-31,JPY,2099939.05,Historical
+INV-00375,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-12-30,2027-02-28,GBP,18376.82,Planned
+INV-00016,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-06-15,2026-07-15,JPY,618939.86,Historical
+INV-00913,SUP13,Osaka Microdevices,Manufacturing,Components,2026-01-20,2026-03-06,JPY,4593482.09,Historical
+INV-01335,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-01-05,2025-02-04,GBP,17554.47,Historical
+INV-01253,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-09-11,2026-10-11,EUR,31157.74,Historical
+INV-00176,SUP03,benelux sensor works,Manufacturing,Components,2026-05-21,2026-06-20,EUR,8185.07,Historical
+INV-00185,SUP13,Osaka Microdevices,Manufacturing,Components,2025-12-13,2026-01-27,JPY,2020818.06,Historical
+INV-01138,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-03-24,2026-05-23,JPY,7606969.47,Historical
+INV-01276,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-10-30,2026-12-14,JPY,1069162.58,Planned
+INV-00837,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-05-04,2026-06-03,EUR,2896.55,Historical
+INV-01010,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-29,2026-09-28,EUR,18100.16,Historical
+INV-00831,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-11-19,2027-01-03,JPY,779784.21,Planned
+INV-00298,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-03-27,2025-04-26,GBP,42311.57,Historical
+INV-00567,SUP04,Nordlicht Packaging,Operations,Packaging,2025-06-04,2025-07-04,EUR,3820.88,Historical
+INV-01392,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-12-22,2027-01-21,JPY,2591039.78,Planned
+INV-00544,SUP13,Osaka Microdevices,Manufacturing,Components,2026-12-30,2027-02-13,JPY,1888287.78,Planned
+INV-01363,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-12-23,2026-02-21,GBP,20181.57,Historical
+INV-01223,SUP01,Rhein Circuit Components,Manufacturing,Components,9/20/2026,2026-10-20,EUR,31546.50,Historical
+INV-00345,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-09-06,2026-10-21,JPY,914723.61,Historical
+INV-01206,SUP04,Nordlicht Packaging,Operations,Packaging,2026-10-25,2026-11-24,EUR,5085.22,Planned
+INV-00435,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-01-03,2025-03-04,JPY,5771798.98,Historical
+INV-00483,SUP04,Nordlicht Packaging,Operations,Packaging,2025-10-03,2025-11-02,EUR,7254.22,Historical
+INV-01287,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-05-05,2025-06-19,JPY,880086.72,Historical
+INV-00163,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-01-06,2026-02-05,EUR,23671.44,Historical
+INV-00927,SUP13,Osaka Microdevices,Manufacturing,Components,2026-10-15,2026-11-29,JPY,2234924.11,Planned
+INV-00348,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-09-29,2026-11-13,EUR,34631.61,Historical
+INV-01425,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-01-22,2026-03-08,EUR,96551.04,Historical
+INV-01447,SUP10,Bristol Calibration Services,Operations,Services,2025-11-08,2025-12-23,GBP,1336.25,Historical
+INV-00174,SUP06,Dublin Systems Licensing,IT,Software,2026-08-18,2026-09-17,EUR,1096.93,Historical
+INV-00773,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-07-14,2025-08-13,GBP,16494.97,Historical
+INV-01209,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-09-02,2025-10-17,JPY,1397942.73,Historical
+INV-00662,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-02-26,2025-03-28,EUR,28951.50,Historical
+INV-01230,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-01-10,2026-03-11,JPY,4316684.55,Historical
+INV-00896,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-03-23,2026-04-22,EUR,11335.73,Historical
+INV-01193,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-10-27,2025-11-26,JPY,1178796.19,Historical
+INV-00621,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-16,2026-08-15,EUR,18072.04,Historical
+INV-00875,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-06-11,2026-07-11,EUR,14206.98,Historical
+INV-00300,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-11-12,2025-12-12,EUR,22309.34,Historical
+INV-00558,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-11-04,2025-12-19,EUR,12535.73,Historical
+INV-00562,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-04-01,2025-05-16,JPY,1240782.00,Historical
+INV-00286,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-09-18,2026-10-18,JPY,3839562.82,Historical
+INV-01077,SUP13,Osaka Microdevices,Manufacturing,Components,2025-10-26,2025-12-10,JPY,880251.36,Historical
+INV-00343,SUP04,Nordlicht Packaging,Operations,Packaging,2026-10-28,2026-11-27,EUR,10621.11,Planned
+INV-00341,SUP18,Yokohama Engineering Labs,Operations,Services,2025-04-26,2025-05-26,JPY,1099282.06,Historical
+INV-00339,SUP04,Nordlicht Packaging,Operations,Packaging,2026-07-26,2026-08-25,EUR,3777.90,Historical
+INV-01002,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-06-25,2025-08-09,JPY,1593324.94,Historical
+INV-00874,SUP04,Nordlicht Packaging,Operations,Packaging,2026-07-02,2026-08-01,EUR,4813.36,Historical
+INV-00480,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-09-24,2025-10-24,EUR,11792.09,Historical
+INV-00123,SUP06,Dublin Systems Licensing,IT,Software,2026-09-25,2026-10-25,EUR,8623.28,Historical
+INV-00067,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-06-19,2025-07-19,GBP,7210.94,Historical
+INV-00990,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-06-12,2026-08-11,GBP,14225.49,Historical
+INV-00328,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-11-15,2026-12-15,JPY,2531601.56,Planned
+INV-01183,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-12-24,2027-01-23,JPY,4878613.29,Planned
+INV-00126,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-11-05,2026-12-20,EUR,35332.79,Planned
+INV-00282,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-03-08,2026-04-07,GBP,22175.29,Historical
+INV-00292,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-12-09,2027-01-08,JPY,4242148.76,Planned
+INV-00612,SUP18,Yokohama Engineering Labs,Operations,Services,2026-05-02,2026-06-01,JPY,827694.31,Historical
+INV-00678,SUP10,Bristol Calibration Services,Operations,Services,2026-04-25,2026-06-09,GBP,5169.39,Historical
+INV-00291,SUP16,Kyoto Optical Instruments,Manufacturing,Components,10/26/2026,2026-11-25,JPY,2173261.19,Planned
+INV-00909,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-07-19,2026-09-17,JPY,3862948.96,Historical
+INV-00925,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-03-05,2025-04-19,JPY,339058.63,Historical
+INV-00193,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-07-05,2025-08-19,JPY,677996.53,Historical
+INV-00518,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-06-25,2026-07-25,JPY,903090.89,Historical
+INV-00737,SUP04,Nordlicht Packaging,Operations,Packaging,2026-06-27,2026-07-27,EUR,2976.85,Historical
+INV-00589,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-11-16,2026-12-16,EUR,18768.01,Planned
+INV-00618,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-05-08,2025-06-22,EUR,25846.84,Historical
+INV-01435,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-06-24,2026-07-24,GBP,20223.59,Historical
+INV-00290,SUP04,Nordlicht Packaging,Operations,Packaging,2026-04-05,2026-05-05,EUR,2124.56,Historical
+INV-01388,SUP03,Benelux Sensor Works,Manufacturing,Parts,2025-12-02,2026-01-01,EUR,9987.01,Historical
+INV-00362,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-05-02,2025-07-01,GBP,23245.11,Historical
+INV-00073,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-06-15,2026-08-14,GBP,6505.32,Historical
+INV-00908,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-04-22,2025-06-06,EUR,37229.44,Historical
+INV-01156,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-03-05,2026-04-04,JPY,1664414.71,Historical
+INV-00598,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-11-14,2026-12-29,JPY,178796.75,Planned
+INV-00186,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-08-24,2026-10-08,JPY,1028798.79,Historical
+INV-01302,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-06-05,2025-07-05,EUR,24572.36,Historical
+INV-00671,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-09-06,2025-10-06,JPY,2880585.90,Historical
+INV-00088,SUP04,Nordlicht Packaging,Operations,Packaging,2025-07-11,2025-08-10,EUR,6811.12,Historical
+INV-01128,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-03-12,2025-04-11,JPY,2979634.87,Historical
+INV-01093,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-06-16,2026-07-31,EUR,21181.98,Historical
+INV-01322,SUP12,Oxford Technical Materials,Manufacturing,Components,9/25/2026,2026-11-24,GBP,23326.85,Historical
+INV-01452,SUP13,Osaka Microdevices,Manufacturing,Components,2025-09-17,2025-11-01,JPY,1811307.14,Historical
+INV-01492,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-23,2026-12-23,EUR,10654.30,Planned
+INV-00710,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-01-07,2025-02-21,EUR,41964.80,Historical
+INV-00571,SUP18,Yokohama Engineering Labs,Operations,Services,2026-09-20,2026-10-20,JPY,650506.22,Historical
+INV-00687,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-10,2025-03-12,JPY,436028.96,Historical
+INV-00474,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-05-22,2025-06-21,JPY,3332763.63,Historical
+INV-00188,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-06-28,2026-07-28,EUR,20500.90,Historical
+INV-00578,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-12-23,2026-01-22,EUR,15482.48,Historical
+INV-00412,SUP18,Yokohama Engineering Labs,Operations,Services,2026-05-25,2026-06-24,JPY,1544418.48,Historical
+INV-01271,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-17,2025-12-17,EUR,5028.73,Historical
+INV-01356,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-12-10,2026-01-24,EUR,65575.01,Historical
+INV-00689,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-08-02,2025-10-01,GBP,20067.00,Historical
+INV-01440,SUP18,Yokohama Engineering Labs,Operations,Services,2025-05-04,2025-06-03,JPY,2334281.26,Historical
+INV-00159,SUP06,Dublin Systems Licensing,IT,Software,2026-07-07,2026-08-06,EUR,9227.03,Historical
+INV-00464,SUP11,Manchester Cloud Solutions,IT,Software,2026-03-15,2026-04-14,GBP,9182.63,Historical
+INV-00636,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-05-08,2025-06-07,JPY,732360.93,Historical
+INV-00173,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-05-15,2026-06-29,EUR,3256.51,Historical
+INV-01178,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-08-20,2025-09-19,GBP,12195.80,Historical
+INV-01110,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-25,2026-10-25,EUR,6178.78,Historical
+INV-00858,SUP13,Osaka Microdevices,Manufacturing,Components,2025-11-16,2025-12-31,JPY,4858168.61,Historical
+INV-00656,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-12,2025-08-11,EUR,21908.09,Historical
+INV-00979,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-07-31,2026-09-14,JPY,1092206.00,Historical
+INV-00039,SUP18,Yokohama Engineering Labs,Operations,Services,2026-02-21,2026-03-23,JPY,2246246.54,Historical
+INV-01197,SUP13,Osaka Microdevices,Manufacturing,Components,2025-07-15,2025-08-29,JPY,3781795.12,Historical
+INV-00794,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-06-07,2026-08-06,EUR,60453.63,Historical
+INV-00337,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-03-09,2026-04-08,JPY,559195.89,Historical
+INV-01186,SUP04,Nordlicht Packaging,Operations,Packaging,2025-11-06,2025-12-06,EUR,4541.83,Historical
+INV-01021,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-03-03,2025-04-02,JPY,1841110.25,Historical
+INV-00894,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-23,2026-10-23,EUR,22303.48,Historical
+INV-00969,SUP18,Yokohama Engineering Labs,Operations,Service,2026-12-22,2027-01-21,JPY,2591849.57,Planned
+INV-01210,SUP11,Manchester Cloud Solutions,IT,Software,2026-12-12,2027-01-11,GBP,1629.69,Planned
+INV-00588,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-04-27,2025-05-27,JPY,2546708.74,Historical
+INV-00793,SUP11,Manchester Cloud Solutions,IT,Software,2026-03-01,2026-03-31,GBP,7414.70,Historical
+INV-01169,SUP11,Manchester Cloud Solutions,IT,Software,2025-03-06,2025-04-05,GBP,2742.43,Historical
+INV-00963,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-02-06,2026-03-08,JPY,1127003.84,Historical
+INV-01456,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-11-19,2025-12-19,EUR,4336.09,Historical
+INV-01153,SUP04,Nordlicht Packaging,Operations,Packaging,2026-08-15,2026-09-14,EUR,9508.93,Historical
+INV-00918,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-10-24,,JPY,14282148.19,Planned
+INV-00428,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-04-14,2025-05-14,EUR,26271.23,Historical
+INV-00669,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-06-16,2026-08-15,JPY,7262437.56,Historical
+INV-01003,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-05-21,2025-07-20,EUR,95842.07,Historical
+INV-00268,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-11-17,2025-12-17,JPY,"2,653,155.10",Historical
+INV-00533,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-10-15,2026-11-14,JPY,2776726.70,Planned
+INV-00934,SUP11,Manchester Cloud Solutions,IT,Software,2025-02-27,2025-03-29,GBP,1670.06,Historical
+INV-01179,SUP13,Osaka Microdevices,Manufacturing,Components,2025-03-31,2025-05-15,JPY,3185105.95,Historical
+INV-00081,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-11-26,2027-01-10,EUR,27551.02,Planned
+INV-00503,SUP10,Bristol Calibration Services,Operations,Services,2026-12-12,2027-01-26,GBP,"11,190.25",Planned
+INV-00304,SUP11,Manchester Cloud Solutions,IT,Software,2025-06-30,2025-07-30,GBP,5095.06,Historical
+INV-01059,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-12-29,2026-01-28,EUR,6732.16,Historical
+INV-00818,SUP06,Dublin Systems Licensing,IT,Software,2025-11-23,2025-12-23,EUR,10085.97,Historical
+INV-01304,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-09-12,2025-10-12,EUR,16388.10,Historical
+INV-00122,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-01-01,2025-01-31,JPY,4968613.84,Historical
+INV-00192,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-02-19,2025-03-21,EUR,23774.24,Historical
+INV-00507,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-01-06,2026-02-05,EUR,24415.67,Historical
+INV-00845,SUP18,Yokohama Engineering Labs,Operations,Services,2025-02-09,2025-03-11,JPY,1184324.58,Historical
+INV-00060,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-06-29,2026-08-13,EUR,12169.69,Historical
+INV-01020,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-02-05,2026-03-07,GBP,17750.43,Historical
+INV-00834,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-04-02,2026-05-02,JPY,3768408.40,Historical
+INV-00385,SUP18,Yokohama Engineering Labs,Operations,Services,2025-10-30,2025-11-29,JPY,2118844.07,Historical
+INV-00250,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-07-19,2025-08-18,JPY,669495.13,Historical
+INV-00399,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-30,2026-09-29,EUR,7199.64,Historical
+INV-01360,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-10-02,2026-11-16,EUR,33775.10,Planned
+INV-01142,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-03-07,2026-04-06,EUR,10353.65,Historical
+INV-00462,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-09-10,2026-10-10,EUR,23512.23,Historical
+INV-00204,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-07-15,2026-08-14,JPY,1818382.37,Historical
+INV-00924,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-01-25,2026-02-24,EUR,8549.04,Historical
+INV-00838,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-03-28,2025-04-27,JPY,702669.89,Historical
+INV-00961,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-09,2025-08-08,EUR,14019.09,Historical
+INV-00651,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-04-08,2026-05-08,JPY,1896013.70,Historical
+INV-00677,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-05-14,2025-06-13,JPY,1070394.94,Historical
+INV-00962,SUP18,Yokohama Engineering Labs,Operations,Services,2026-06-22,2026-07-22,JPY,1312301.23,Historical
+INV-00512,SUP12,OXFORD TECHNICAL MATERIALS,Manufacturing,Components,2026-11-16,2027-01-15,GBP,17165.09,Planned
+INV-01033,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-06-05,2025-07-05,EUR,7602.69,Historical
+INV-00521,SUP18,Yokohama Engineering Labs,Operations,Services,2026-08-05,2026-09-04,JPY,908716.73,Historical
+INV-00753,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-28,2026-05-28,EUR,41823.93,Historical
+INV-01277,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-02-14,2025-04-15,GBP,30334.58,Historical
+INV-00536,SUP04,Nordlicht Packaging,Operations,Packaging,2025-10-14,2025-11-13,EUR,11546.81,Historical
+INV-00452,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-08,2026-08-07,EUR,22184.18,Historical
+INV-00499,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-10-27,2025-11-26,JPY,2786393.19,Historical
+INV-00718,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-06,2026-08-05,EUR,11325.11,Historical
+INV-00022,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-03-13,2025-04-12,EUR,8413.61,Historical
+INV-01491,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-05-27,2026-07-11,EUR,25734.78,Historical
+INV-00869,SUP13,Osaka Microdevices,Manufacturing,Components,2025-05-11,2025-06-25,JPY,1108267.93,Historical
+INV-00615,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-12-11,2027-01-25,EUR,14038.22,Planned
+INV-00623,SUP11,Manchester Cloud Solutions,IT,Software,2025-06-17,2025-07-17,GBP,7841.18,Historical
+INV-00142,SUP10,Bristol Calibration Services,Operations,Services,2025-05-30,2025-07-14,GBP,11792.17,Historical
+INV-01493,SUP11,Manchester Cloud Solutions,IT,Software,8/14/2026,2026-09-13,GBP,1873.06,Historical
+INV-00690,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-11-23,2025-12-23,JPY,3124083.45,Historical
+INV-01011,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-11-11,2027-01-10,EUR,76719.79,Planned
+INV-00641,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-03-14,2026-05-13,JPY,4683592.18,Historical
+INV-00200,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-02-19,2025-03-21,JPY,1824977.12,Historical
+INV-00820,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-04-26,2025-06-10,EUR,4925.06,Historical
+INV-01095,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-12-12,2027-01-26,EUR,56163.08,Planned
+INV-00237,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-07-12,2025-08-26,JPY,128042.27,Historical
+INV-01403,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-06-29,2025-07-29,JPY,1970602.50,Historical
+INV-00572,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-01-27,2025-02-26,EUR,15668.21,Historical
+INV-00228,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-06-02,2026-08-01,JPY,9766897.01,Historical
+INV-01057,SUP13,Osaka Microdevices,Manufacturing,Components,2025-06-01,2025-07-16,JPY,3950421.68,Historical
+INV-00917,SUP04,Nordlicht Packaging,Operations,Packaging,2026-09-21,2026-10-21,EUR,4809.41,Historical
+INV-00275,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-09-07,2026-10-07,EUR,16921.79,Historical
+INV-00609,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-07-23,2025-08-22,EUR,14353.25,Historical
+INV-01385,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-04-16,2026-05-16,EUR,29747.40,Historical
+INV-00078,SUP18,Yokohama Engineering Labs,Operations,Services,2025-02-08,2025-03-10,JPY,683055.42,Historical
+INV-00239,SUP04,Nordlicht Packaging,Operations,Packaging,2026-05-29,2026-06-28,EUR,4417.85,Historical
+INV-00733,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-18,2025-03-20,JPY,4849643.96,Historical
+INV-01134,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-02-26,2026-03-28,EUR,20627.70,Historical
+INV-00529,SUP13,Osaka Microdevices,Manufacturing,Components,2025-07-11,2025-08-25,JPY,1844442.37,Historical
+INV-00062,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-02-23,2026-04-24,JPY,6170799.48,Historical
+INV-01364,SUP10,Bristol Calibration Services,Operations,Services,2026-02-20,2026-04-06,GBP,7987.06,Historical
+INV-01338,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-11-14,2026-12-14,EUR,6476.30,Planned
+INV-00855,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-06-13,2025-07-13,EUR,22174.65,Historical
+INV-00131,SUP04,Nordlicht Packaging,Operations,Packaging,2025-07-06,2025-08-05,EUR,8667.16,Historical
+INV-01240,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-05-13,2026-06-12,EUR,16157.62,Historical
+INV-00748,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-01-26,2026-03-12,EUR,10578.30,Historical
+INV-00971,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-06-29,2025-08-13,EUR,17441.47,Historical
+INV-00936,SUP04,Nordlicht Packaging,Operations,Packaging,2026-05-29,2026-06-28,EUR,6164.81,Historical
+INV-00431,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-02-02,2025-03-19,EUR,33195.43,Historical
+INV-01351,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-02-02,2025-03-19,EUR,42649.43,Historical
+INV-00143,SUP11,Manchester Cloud Solutions,IT,Software,2025-07-17,2025-08-16,GBP,4549.79,Historical
+INV-00628,SUP18,Yokohama Engineering Labs,Operations,Services,2025-06-12,2025-07-12,JPY,1702519.12,Historical
+INV-01055,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-02-15,2026-04-16,EUR,64984.79,Historical
+INV-00393,SUP06,Dublin Systems Licensing,IT,Software,2026-02-11,2026-03-13,EUR,1677.18,Historical
+INV-00489,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-09-16,2026-10-16,JPY,3081125.88,Historical
+INV-00770,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-08-17,2026-09-16,EUR,17922.72,Historical
+INV-01372,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-11-07,2025-12-07,EUR,9627.05,Historical
+INV-00702,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-06-15,2026-07-15,EUR,13510.82,Historical
+INV-00774,SUP01,Rhein Circuit Components,,Components,2026-07-25,2026-08-24,EUR,9035.11,Historical
+INV-00224,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-09-01,2025-10-31,EUR,17057.65,Historical
+INV-00395,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-10-23,2025-11-22,EUR,11169.29,Historical
+INV-00476,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-01-11,2025-03-12,JPY,8221799.39,Historical
+INV-00092,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-09-05,2025-10-20,EUR,73067.28,Historical
+INV-01170,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-12-15,2026-01-29,EUR,13638.46,Historical
+INV-00442,SUP10,Bristol Calibration Services,Operations,Services,2025-06-15,2025-07-30,GBP,14825.62,Historical
+INV-01419,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-12-10,2027-01-24,JPY,609487.95,Planned
+INV-01285,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-06-26,2026-07-26,GBP,12413.68,Historical
+INV-00397,SUP04,Nordlicht Packaging,Operations,Packaging,2025-08-17,2025-09-16,EUR,3444.40,Historical
+INV-00974,SUP10,Bristol Calibration Services,Operations,Services,2025-01-02,2025-02-16,GBP,9258.86,Historical
+INV-00085,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-07-15,2026-08-14,GBP,8088.06,Historical
+INV-00349,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-06-06,2025-07-21,EUR,58073.81,Historical
+INV-00299,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-02-12,2026-03-14,JPY,1738652.36,Historical
+INV-01235,SUP11,Manchester Cloud Solutions,IT,Software,2026-03-07,2026-04-06,GBP,4198.13,Historical
+INV-01344,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-21,2025-05-21,GBP,7844.76,Historical
+INV-01426,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-09-22,2025-10-22,EUR,2780.75,Historical
+INV-01480,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-02,2026-05-02,EUR,10824.20,Historical
+INV-01487,SUP10,Bristol Calibration Services,Operations,Services,2025-08-15,2025-09-29,GBP,14300.54,Historical
+INV-00320,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-09-21,2025-10-21,EUR,17936.40,Historical
+INV-00635,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-06-08,2026-08-07,JPY,13970318.65,Historical
+INV-00910,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-07-12,2026-09-10,EUR,24827.84,Historical
+INV-00242,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-05-07,2025-06-06,EUR,4133.15,Historical
+INV-01293,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-05-20,2025-07-19,EUR,76427.65,Historical
+INV-00515,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-02-13,2025-03-15,JPY,483596.31,Historical
+INV-00402,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-02-10,2026-04-11,GBP,9985.31,Historical
+INV-00181,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-06-01,2025-07-01,JPY,1834402.22,Historical
+INV-00050,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-11-19,2026-01-03,EUR,16423.03,Historical
+INV-01428,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-10-05,2025-11-04,JPY,1689673.97,Historical
+INV-01443,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-05-20,2026-07-04,EUR,98218.66,Historical
+INV-00707,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-08-09,2026-09-08,GBP,27242.53,Historical
+INV-01132,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-10-31,2025-12-30,EUR,56313.23,Historical
+INV-01420,SUP04,Nordlicht Packaging,Operations,Packaging,2026-11-23,2026-12-23,EUR,9009.74,Planned
+INV-00788,SUP04,Nordlicht Packaging,Operations,Packaging,2026-04-20,2026-05-20,EUR,6369.55,Historical
+INV-00419,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-04-10,2026-05-10,JPY,2206851.42,Historical
+INV-01398,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-09-20,2025-11-19,JPY,11507026.60,Historical
+INV-01181,SUP13,Osaka Microdevices,Manufacturing,Components,2026-08-22,2026-10-06,JPY,2792984.63,Historical
+INV-00227,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-05-10,2025-07-09,JPY,16507999.01,Historical
+INV-00810,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-10-24,2026-12-23,JPY,6050803.28,Planned
+INV-00094,SUP06,Dublin Systems Licensing,IT,Software,2025-04-23,2025-05-23,EUR,9066.69,Historical
+INV-00506,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-06-24,2025-08-23,EUR,19106.69,Historical
+INV-00976,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-09-14,2026-10-29,EUR,10353.83,Historical
+INV-00527,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-31,2025-06-30,EUR,13759.07,Historical
+INV-00631,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-04-16,2026-05-16,EUR,15898.94,Historical
+INV-00758,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-03-24,2025-04-23,GBP,25053.13,Historical
+INV-00644,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-03-24,2026-05-23,JPY,8365560.79,Historical
+INV-00887,SUP10,Bristol Calibration Services,Operations,Services,2026-06-11,2026-07-26,GBP,5742.00,Historical
+INV-00451,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-02-28,2026-04-29,JPY,4325939.62,Historical
+INV-00257,SUP06,Dublin Systems Licensing,IT,Software,2025-10-21,2025-11-20,EUR,7269.70,Historical
+INV-00545,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-09-07,2025-10-22,JPY,1143541.96,Historical
+INV-00295,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-09-24,2026-11-23,JPY,8932739.90,Historical
+INV-01280,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-07-03,2025-08-02,JPY,2369740.78,Historical
+INV-00715,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-03-28,2026-04-27,JPY,2386514.89,Historical
+INV-00856,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-11-14,2026-12-29,JPY,851908.68,Planned
+INV-00394,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-11-01,2026-12-31,JPY,6317107.77,Planned
+INV-00547,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-02-06,2026-03-08,EUR,13626.21,Historical
+INV-00136,SUP13,Osaka Microdevices,Manufacturing,Components,2025-01-08,2025-02-22,JPY,2192089.72,Historical
+INV-01180,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-10-07,2026-12-06,GBP,14907.89,Planned
+INV-01047,SUP13,Osaka Microdevices,Manufacturing,Components,2026-06-06,,JPY,3782364.89,Historical
+INV-01483,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-05-24,2025-06-23,EUR,42954.65,Historical
+INV-00473,SUP06,Dublin Systems Licensing,IT,Software,2025-10-29,2025-11-28,EUR,11611.93,Historical
+INV-01383,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-08-02,2025-09-16,EUR,28189.04,Historical
+INV-00441,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-09-09,2025-10-24,JPY,124114.15,Historical
+INV-00274,SUP04,Nordlicht Packaging,Operations,Packaging,2026-03-28,2026-04-27,EUR,11001.74,Historical
+INV-01043,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-11,2026-08-10,EUR,37538.07,Historical
+INV-01190,SUP10,Bristol Calibration Services,Operations,Services,2025-03-30,2025-05-14,GBP,4605.72,Historical
+INV-01000,SUP10,Bristol Calibration Services,Operations,Services,2026-03-27,2026-05-11,GBP,2620.63,Historical
+INV-00580,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-12-31,2027-01-30,GBP,22024.13,Planned
+INV-01332,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-18,2026-05-18,EUR,14560.57,Historical
+INV-00077,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-04-15,2025-05-15,GBP,5628.70,Historical
+INV-00004,SUP04,Nordlicht Packaging,Operations,Packaging,2025-01-15,2025-02-14,EUR,2619.62,Historical
+INV-00700,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-03-30,2026-05-29,GBP,23195.52,Historical
+INV-00736,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-09-23,2026-10-23,GBP,14290.98,Historical
+INV-00541,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-07-24,2025-09-07,JPY,"1,371,669.30",Historical
+INV-01370,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-08-27,2025-09-26,GBP,21323.66,Historical
+INV-01141,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-02-08,2026-03-10,JPY,751819.90,Historical
+INV-01320,SUP10,Bristol Calibration Services,Operations,Services,2025-02-25,2025-04-11,GBP,1865.43,Historical
+INV-00264,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-10-29,2026-12-28,GBP,7943.55,Planned
+INV-00740,SUP04,Nordlicht Packaging,Operations,Packaging,2025-02-12,2025-03-14,EUR,5282.64,Historical
+INV-01248,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-02-17,2025-03-19,EUR,35053.69,Historical
+INV-01068,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-04-08,2026-05-08,EUR,20285.56,Historical
+INV-01269,SUP10,Bristol Calibration Services,Operations,Services,2025-02-06,2025-03-23,GBP,2699.57,Historical
+INV-00015,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-10-05,2025-11-19,EUR,8439.70,Historical
+INV-00389,SUP18,Yokohama Engineering Labs,Operations,Services,2025-03-01,2025-03-31,JPY,943932.82,Historical
+INV-00497,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-02-04,2025-03-21,EUR,43177.02,Historical
+INV-01421,SUP13,Osaka Microdevices,Manufacturing,Components,2026-11-25,2027-01-09,JPY,2830124.88,Planned
+INV-00017,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-02-16,2025-03-18,GBP,16048.44,Historical
+INV-00293,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-04-30,2025-05-30,EUR,14071.68,Historical
+INV-00814,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-10-18,2026-11-17,JPY,1429471.07,Planned
+INV-00075,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-03-04,2025-04-18,EUR,20534.06,Historical
+INV-00456,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-10-27,2025-12-26,JPY,4970092.14,Historical
+INV-00491,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-12-09,2027-01-23,EUR,55080.52,Planned
+INV-00083,SUP13,Osaka Microdevices,Manufacturing,Components,2026-06-01,2026-07-16,JPY,1089377.96,Historical
+INV-00682,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-06-02,2026-07-02,EUR,15652.39,Historical
+INV-00040,SUP10,Bristol Calibration Services,Operations,Services,2025-03-14,2025-04-28,GBP,13192.37,Historical
+INV-00190,SUP04,Nordlicht Packaging,Operations,Packaging,2026-08-19,2026-09-18,EUR,6438.88,Historical
+INV-01441,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-05-23,2026-06-22,EUR,27996.77,Historical
+INV-00302,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-02-03,2025-03-05,GBP,14280.91,Historical
+INV-00097,SUP18,Yokohama Engineering Labs,Operations,Services,2025-04-17,2025-05-17,JPY,1621815.46,Historical
+INV-00058,SUP09,Thames Electronics Ltd,Manufacturing,Components,5/24/2025,2025-06-23,GBP,35616.09,Historical
+INV-00964,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-07-03,2025-08-17,EUR,19403.16,Historical
+INV-00032,SUP10,Bristol Calibration Services,Operations,Services,2025-05-21,2025-07-05,GBP,8030.69,Historical
+INV-00266,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-08-23,2025-09-22,EUR,3306.26,Historical
+INV-00430,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-02-14,2025-03-16,EUR,8495.74,Historical
+INV-00252,SUP16,Kyoto Optical Instruments,Manufacturing,Components,11/22/2025,2025-12-22,JPY,4771842.43,Historical
+INV-00989,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-01-03,2026-02-02,JPY,2309969.98,Historical
+INV-00284,SUP06,Dublin Systems Licensing,IT,Software,2025-09-24,2025-10-24,EUR,9777.81,Historical
+INV-01063,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-02-13,2025-03-15,EUR,23564.89,Historical
+INV-00236,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-03-01,2025-03-31,JPY,2744034.26,Historical
+INV-01087,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-05-16,2025-06-15,EUR,21094.50,Historical
+INV-00870,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-12-02,2027-01-01,EUR,14875.60,Planned
+INV-01308,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-08-24,2026-09-23,JPY,4769710.79,Historical
+INV-00205,SUP11,Manchester Cloud Solutions,IT,Software,2025-11-12,2025-12-12,GBP,2391.33,Historical
+INV-00591,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-10-21,2026-11-20,EUR,14990.11,Planned
+INV-00458,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-05-27,2025-06-26,EUR,13627.17,Historical
+INV-00569,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-09-18,2025-10-18,GBP,20951.58,Historical
+INV-01409,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-06-23,2025-08-07,EUR,6759.60,Historical
+INV-01222,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-03-14,2026-04-13,JPY,1850597.85,Historical
+INV-00972,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-01-10,2025-02-09,EUR,27183.90,Historical
+INV-01159,SUP11,Manchester Cloud Solutions,IT,Software,2026-03-23,2026-04-22,GBP,3720.69,Historical
+INV-00457,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-06-12,2026-07-27,EUR,22940.06,Historical
+INV-00209,SUP09,Thames Electronics Ltd,Manufacturing,Components,11/11/2026,2026-12-11,GBP,27932.39,Planned
+INV-00119,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-07-06,2025-09-04,EUR,50847.13,Historical
+INV-00629,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-11-11,2025-12-26,EUR,14037.25,Historical
+INV-00305,SUP18,Yokohama Engineering Labs,Operations,Services,2025-07-19,2025-08-18,JPY,1635368.43,Historical
+INV-00886,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-04-27,2026-05-27,EUR,14741.48,Historical
+INV-00129,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-08-21,2026-10-05,EUR,63201.35,Historical
+INV-00739,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-01-31,2025-04-01,JPY,4693929.29,Historical
+INV-00584,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-11-17,2025-12-17,JPY,1789761.28,Historical
+INV-00842,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-02-11,2026-03-13,EUR,43061.85,Historical
+INV-00314,SUP11,Manchester Cloud Solutions,IT,Software,2025-08-07,2025-09-06,GBP,5439.22,Historical
+INV-01346,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-12-14,2026-01-13,JPY,1215710.76,Historical
+INV-00217,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-05-17,2026-07-01,JPY,491914.96,Historical
+INV-00340,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-11-21,2026-01-05,EUR,40141.48,Historical
+INV-00650,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-10-20,2025-12-19,JPY,6362431.02,Historical
+INV-01238,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-11-08,2025-12-08,EUR,28237.62,Historical
+INV-00747,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-06-09,2025-07-24,EUR,46385.51,Historical
+INV-01471,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-12-23,2026-01-22,JPY,1409433.31,Historical
+INV-00031,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-15,2025-06-14,GBP,20636.83,Historical
+INV-01250,SUP10,Bristol Calibration Services,Operations,Services,2026-05-17,2026-07-01,GBP,1726.66,Historical
+INV-00115,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-04-12,2025-05-27,EUR,22106.82,Historical
+INV-01243,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-09-05,2026-10-20,EUR,38697.04,Historical
+INV-00901,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-05-28,2025-07-12,JPY,874996.75,Historical
+INV-01236,SUP13,Osaka Microdevices,Manufacturing,Components,2026-11-23,2027-01-07,JPY,3159880.85,Planned
+INV-00524,SUP13, Osaka Microdevices  ,Manufacturing,Components,2025-05-24,2025-07-08,JPY,1518423.80,Historical
+INV-00260,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-07-12,2025-08-11,EUR,6614.98,Historical
+INV-00009,SUP04,Nordlicht Packaging,Operations,Packaging,2026-04-02,2026-05-02,EUR,10080.53,Historical
+INV-00830,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-03,2025-12-03,EUR,3942.94,Historical
+INV-00153,SUP06,Dublin Systems Licensing,IT,Software,2026-06-15,2026-07-15,EUR,3602.79,Historical
+INV-00010,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-05-08,2026-06-07,JPY,517662.57,Historical
+INV-00197,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-05-27,2026-07-26,GBP,10731.89,Historical
+INV-01413,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-07-24,2026-08-23,EUR,28004.96,Historical
+INV-00246,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-08-19,2025-09-18,GBP,21002.83,Historical
+INV-00170,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-06-05,2025-07-05,EUR,10845.57,Historical
+INV-01371,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-12-06,2027-01-20,EUR,15572.88,Planned
+INV-00778,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2025-09-02,2025-11-01,EUR,46310.85,Historical
+INV-00028,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-07-27,2025-08-26,EUR,14545.55,Historical
+INV-01103,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-09-27,2026-11-11,EUR,30660.40,Historical
+INV-00935,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-01-19,2025-02-18,JPY,1586213.73,Historical
+INV-01184,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-03-16,2026-05-15,JPY,7219071.43,Historical
+INV-01384,SUP06,Dublin Systems Licensing,IT,Software,2025-10-31,2025-11-30,EUR,930.63,Historical
+INV-00500,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-07-28,2025-08-27,GBP,27837.76,Historical
+INV-00556,SUP13,Osaka Microdevices,Manufacturing,Components,2026-03-25,2026-05-09,JPY,2010150.74,Historical
+INV-01316,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-06-21,2025-08-05,EUR,16499.99,Historical
+INV-00090,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-08-21,2026-09-20,EUR,25585.93,Historical
+INV-01143,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-09-26,2026-10-26,EUR,23506.32,Historical
+INV-00261,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-02-20,2025-03-22,JPY,1824412.16,Historical
+INV-01274,SUP13,Osaka Microdevices,Manufacturing,Components,2026-06-05,2026-07-20,JPY,1091032.02,Historical
+INV-00263,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-05-09,2026-06-08,GBP,23468.77,Historical
+INV-01201,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-11-30,2026-12-30,EUR,23032.71,Planned
+INV-01221,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-07-11,2026-08-25,EUR,8181.76,Historical
+INV-00752,SUP13,Osaka Microdevices,Manufacturing,Components,2026-08-15,2026-09-29,JPY,2102025.02,Historical
+INV-01313,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-03-28,2026-04-27,JPY,1156218.52,Historical
+INV-00986,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-10-15,2025-11-14,EUR,7345.55,Historical
+INV-01237,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-10-02,2026-11-01,EUR,26973.65,Planned
+INV-01411,SUP06,Dublin Systems Licensing,IT,Software,2026-05-12,2026-06-11,EUR,10360.63,Historical
+INV-01062,SUP04,Nordlicht Packaging,Operations,Packaging,2026-08-03,2026-09-02,EUR,1886.89,Historical
+INV-00884,SUP11,Manchester Cloud Solutions,IT,Software,2025-03-23,2025-04-22,GBP,2353.94,Historical
+INV-01391,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-04-13,2025-05-13,EUR,19563.36,Historical
+INV-00398,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-10-07,2026-11-21,EUR,32264.83,Planned
+INV-00444,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-07-15,2026-09-13,JPY,7609707.59,Historical
+INV-01081,SUP10,Bristol Calibration Services,Operations,Services,1/9/2026,2026-02-23,GBP,3909.68,Historical
+INV-01027,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-12-30,2027-01-29,JPY,725978.39,Planned
+INV-01151,SUP10,Bristol Calibration Services,Operations,Services,2026-01-22,2026-03-08,GBP,3472.33,Historical
+INV-01207,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-02-26,2025-03-28,JPY,1353843.04,Historical
+INV-01449,SUP17,Kobe Industrial Packaging,Operations,Packaging,2026-05-05,2026-06-19,JPY,1391603.77,Historical
+INV-01272,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2026-06-17,2026-07-17,JPY,2213617.97,Historical
+INV-01488,SUP04,Nordlicht Packaging,Operations,Packaging,2025-09-08,2025-10-08,EUR,11713.80,Historical
+INV-00355,SUP03,Benelux Sensor Works,Manufacturing,Parts,2025-02-25,2025-03-27,EUR,17142.56,Historical
+INV-00548,SUP05,Lyon Industrial Controls,Manufacturing,Components,12/7/2025,2026-01-21,EUR,32228.03,Historical
+INV-01296,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-03-22,2026-05-21,GBP,21773.99,Historical
+INV-01056,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-02-14,2025-04-15,GBP,15213.98,Historical
+INV-01373,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-05-22,2026-07-21,JPY,8764087.63,Historical
+INV-00460,SUP10,Bristol Calibration Services,Operations,Services,2026-11-06,2026-12-21,GBP,8052.15,Planned
+INV-00151,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-12-26,2026-01-25,EUR,36286.94,Historical
+INV-01485,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-09-03,2025-10-03,EUR,2877.21,Historical
+INV-01341,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-06-24,2026-07-24,JPY,1234843.85,Historical
+INV-00692,SUP06,Dublin Systems Licensing,IT,Software,2026-05-07,2026-06-06,EUR,4591.03,Historical
+INV-00517,SUP04,Nordlicht Packaging,Operations,Packaging,2025-05-25,2025-06-24,EUR,4892.52,Historical
+INV-01393,SUP06,Dublin Systems Licensing,IT,Software,2025-06-13,2025-07-13,EUR,3992.00,Historical
+INV-00234,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-10-23,2025-11-22,JPY,1441004.29,Historical
+INV-00848,SUP09, Thames Electronics Ltd  ,Manufacturing,Components,2025-08-31,2025-09-30,GBP,26635.37,Historical
+INV-01175,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-07-29,2025-08-28,EUR,24791.78,Historical
+INV-00034,SUP10,Bristol Calibration Services,Operations,Services,2025-02-18,2025-04-04,GBP,1431.23,Historical
+INV-00920,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-12-13,2027-01-12,EUR,14603.87,Planned
+INV-00368,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-08-27,2026-10-26,EUR,50175.60,Historical
+INV-00256,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-19,2025-06-18,GBP,10140.66,Historical
+INV-00427,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-07-18,2026-08-17,JPY,1775109.42,Historical
+INV-00086,SUP16, Kyoto Optical Instruments  ,Manufacturing,Components,2025-09-11,2025-10-11,JPY,2274381.90,Historical
+INV-00828,SUP09,Thames Electronics Ltd,Manufacturing,Components,2026-02-16,2026-03-18,GBP,25992.86,Historical
+INV-00666,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-07-04,2025-08-03,GBP,19547.45,Historical
+INV-00108,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-03-28,2026-05-27,JPY,11933164.77,Historical
+INV-00271,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-03-09,2025-04-08,EUR,17516.01,Historical
+INV-00372,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-12-20,2026-01-19,JPY,3033036.62,Historical
+INV-01427,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-05-27,2025-06-26,GBP,31888.73,Historical
+INV-00471,SUP04,Nordlicht Packaging,Operations,Packaging,2025-08-13,2025-09-12,EUR,"2,442.62",Historical
+INV-01113,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-04-01,2025-05-16,EUR,19757.57,Historical
+INV-00812,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-08-15,2025-09-14,JPY,3516002.13,Historical
+INV-00603,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-04-28,2025-06-27,JPY,1902681.35,Historical
+INV-01422,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-06-10,2026-07-10,EUR,6337.83,Historical
+INV-01158,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-11-14,2025-12-14,JPY,966462.79,Historical
+INV-00560,SUP05,Lyon Industrial Controls,Manufacturing,Components,2025-10-11,2025-11-25,EUR,3863.22,Historical
+INV-01357,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-02-16,2025-04-17,GBP,16382.19,Historical
+INV-00175,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-06-12,2025-07-12,JPY,1453590.99,Historical
+INV-01367,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-10-05,2025-11-04,EUR,6796.72,Historical
+INV-01412,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-05-02,2025-07-01,GBP,25824.98,Historical
+INV-01108,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-09-25,2025-11-09,JPY,459687.84,Historical
+INV-00450,SUP03,Benelux Sensor Works,Manufacturing,Components,2025-06-22,2025-07-22,EUR,12715.49,Historical
+INV-00048,SUP07,Milan Assembly Robotics,Manufacturing,Equipment,2026-02-21,2026-04-22,EUR,8451.47,Historical
+INV-00251,SUP04,Nordlicht Packaging,Operations,Packaging,2025-06-09,2025-07-09,EUR,6761.92,Historical
+INV-00930,SUP18,Yokohama Engineering Labs,Operations,Services,2026-06-26,2026-07-26,JPY,776171.64,Historical
+INV-00749,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-12-12,2027-01-11,EUR,18776.93,Planned
+INV-01408,SUP11,Manchester Cloud Solutions,IT,Software,2025-07-16,2025-08-15,GBP,2127.50,Historical
+INV-01478,SUP13,Osaka Microdevices,Manufacturing,Components,2026-06-22,2026-08-06,JPY,1401192.49,Historical
+INV-00634,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-07-14,2026-08-28,EUR,24235.19,Historical
+INV-00570,SUP11,Manchester Cloud Solutions,IT,Software,2026-03-17,2026-04-16,GBP,1107.89,Historical
+INV-00012,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-04-02,2026-05-02,JPY,1979754.22,Historical
+INV-00132,SUP11,Manchester Cloud Solutions,IT,Software,2025-12-14,2026-01-13,GBP,4929.68,Historical
+INV-01291,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-11-20,2026-12-20,EUR,27843.84,Planned
+INV-00190,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-01-06,2026-02-20,EUR,16852.86,Historical
+INV-01382,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-11-25,2026-12-25,EUR,41264.95,Planned
+INV-01117,SUP03,BENELUX SENSOR WORKS,Manufacturing,Components,2025-01-13,2025-02-12,EUR,23070.03,Historical
+INV-00380,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-01-07,2026-02-06,EUR,12604.50,Historical
+INV-01030,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-10-30,2025-12-29,JPY,10975365.11,Historical
+INV-01067,SUP12,Oxford Technical Materials,Manufacturing,Components,2025-11-10,2026-01-09,GBP,22443.56,Historical
+INV-00610,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-01-15,2025-02-14,JPY,1351242.63,Historical
+INV-00301,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-03-10,2025-05-09,JPY,14253941.93,Historical
+INV-00822,SUP11,Manchester Cloud Solutions,IT,Software,2026-11-06,2026-12-06,GBP,4384.63,Planned
+INV-01017,SUP13,Osaka Microdevices,Manufacturing,Components,2026-10-13,2026-11-27,JPY,838823.99,Planned
+INV-00980,SUP11,Manchester Cloud Solutions,IT,Software,2025-12-28,2026-01-27,GBP,5366.91,Historical
+INV-01459,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-12-27,2027-01-26,EUR,30870.05,Planned
+INV-00873,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-19,2025-12-19,EUR,8798.64,Historical
+INV-00147,SUP13,Osaka Microdevices,Manufacturing,Components,2026-11-25,2027-01-09,JPY,5356815.19,Planned
+INV-00670,SUP10,Bristol Calibration Services,Operations,Services,2025-07-01,2025-08-15,GBP,1814.77,Historical
+INV-01286,SUP11, Manchester Cloud Solutions  ,IT,Software,2025-06-06,2025-07-06,GBP,9955.55,Historical
+INV-00111,SUP08,Valencia Circuit Supply,Manufacturing,Components,2025-11-06,2025-12-06,EUR,13212.60,Historical
+INV-00169,SUP04,Nordlicht Packaging,Operations,Packaging,2025-07-14,2025-08-13,EUR,5741.86,Historical
+INV-00994,SUP15,Nagoya Logistics Partners,Operations,Freight,2026-03-25,2026-04-24,JPY,1337394.09,Historical
+INV-01264,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-01-19,2025-03-05,EUR,78852.90,Historical
+INV-00889,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-10-02,2025-11-01,JPY,2720362.74,Historical
+INV-00171,SUP16,Kyoto Optical Instruments,Manufacturing,Components,2025-12-22,2026-01-21,JPY,1055336.86,Historical
+INV-01035,SUP18,Yokohama Engineering Labs,Operations,Services,2026-09-19,2026-10-19,JPY,732412.82,Historical
+INV-00785,SUP12,Oxford Technical Materials,Manufacturing,Components,2026-11-30,2027-01-29,GBP,3981.24,Planned
+INV-00622,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-05-15,2025-07-14,JPY,5439377.99,Historical
+INV-01365,SUP13,Osaka Microdevices,Manufacturing,Components,2025-05-16,2025-06-30,JPY,5373251.37,Historical
+INV-01107,SUP18,Yokohama Engineering Labs,Operations,Services,2026-08-11,2026-09-10,JPY,312794.33,Historical
+INV-00802,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-01-01,2026-02-15,EUR,29686.37,Historical
+INV-00024,SUP17,Kobe Industrial Packaging,Operations,Packaging,2025-03-27,,JPY,673370.32,Historical
+INV-00708,SUP15,Nagoya Logistics Partners,Operations,Freight,2025-01-15,2025-02-14,JPY,1470058.04,Historical
+INV-00905,SUP09,Thames Electronics Ltd,Manufacturing,Components,2025-01-05,2025-02-04,GBP,21940.90,Historical
+INV-00525,SUP03,Benelux Sensor Works,Manufacturing,Components,2026-08-26,2026-09-25,EUR,16941.03,Historical
+INV-00472,SUP18,Yokohama Engineering Labs,Operations,Services,2026-02-24,2026-03-26,JPY,2071217.35,Historical
+INV-01241,SUP10,Bristol Calibration Services,Operations,Services,2025-09-19,2025-11-03,GBP,14621.28,Historical
+INV-00790,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2026-01-13,2026-03-14,JPY,13053327.12,Historical
+INV-00510,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-05-22,2026-07-06,EUR,10993.58,Historical
+INV-01495,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2025-09-23,2025-11-07,EUR,75929.35,Historical
+INV-01390,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-04-06,2026-05-21,EUR,22574.50,Historical
+INV-00005,SUP08,Valencia Circuit Supply,Manufacturing,Components,2026-07-03,2026-08-02,EUR,14309.35,Historical
+INV-01106,SUP14,Tokyo Automation Systems,Manufacturing,Equipment,2025-10-24,2025-12-23,JPY,1645560.08,Historical
+INV-01229,SUP01,Rhein Circuit Components,Manufacturing,Components,2026-05-09,2026-06-08,EUR,29917.00,Historical
+INV-00182,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-08-15,2025-09-14,EUR,20551.94,Historical
+INV-00760,SUP02,Alpen Precision Systems,Manufacturing,Equipment,2026-06-16,2026-07-31,EUR,46928.05,Historical
+INV-00633,SUP06,Dublin Systems Licensing,IT,Software,2026-08-01,2026-08-31,EUR,14826.95,Historical
+INV-00405,SUP05,Lyon Industrial Controls,Manufacturing,Components,2026-12-13,2027-01-27,EUR,24663.65,Planned
+INV-01217,SUP18,Yokohama Engineering Labs,Operations,Services,2026-11-22,2026-12-22,JPY,2471718.43,Planned
+INV-00777,SUP11,Manchester Cloud Solutions,IT,Software,2025-04-18,2025-05-18,GBP,8382.62,Historical
+INV-01445,SUP01,Rhein Circuit Components,Manufacturing,Components,2025-06-04,2025-07-04,EUR,23485.49,Historical

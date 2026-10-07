@@ -1,0 +1,19 @@
+Supplier_ID,Supplier_Name,Country,Currency,Category,Default_Department,Payment_Terms_Days,Typical_Invoice_Min,Typical_Invoice_Max,Relative_Frequency
+SUP01,Rhein Circuit Components,Germany,EUR,Components,Manufacturing,30,6500,42000,10
+SUP02,Alpen Precision Systems,Austria,EUR,Equipment,Manufacturing,45,9000,76000,6
+SUP03,Benelux Sensor Works,Netherlands,EUR,Components,Manufacturing,30,3000,26000,8
+SUP04,Nordlicht Packaging,Germany,EUR,Packaging,Operations,30,1800,12000,7
+SUP05,Lyon Industrial Controls,France,EUR,Components,Manufacturing,45,4000,28000,6
+SUP06,Dublin Systems Licensing,Ireland,EUR,Software,IT,30,950,13000,4
+SUP07,Milan Assembly Robotics,Italy,EUR,Equipment,Manufacturing,60,12000,85000,4
+SUP08,Valencia Circuit Supply,Spain,EUR,Components,Manufacturing,30,2500,23000,7
+SUP09,Thames Electronics Ltd,United Kingdom,GBP,Components,Manufacturing,30,4000,32000,8
+SUP10,Bristol Calibration Services,United Kingdom,GBP,Services,Operations,45,1000,15000,5
+SUP11,Manchester Cloud Solutions,United Kingdom,GBP,Software,IT,30,1400,9000,4
+SUP12,Oxford Technical Materials,United Kingdom,GBP,Components,Manufacturing,60,2500,28000,5
+SUP13,Osaka Microdevices,Japan,JPY,Components,Manufacturing,45,650000,5500000,9
+SUP14,Tokyo Automation Systems,Japan,JPY,Equipment,Manufacturing,60,1800000,14000000,5
+SUP15,Nagoya Logistics Partners,Japan,JPY,Freight,Operations,30,180000,2400000,6
+SUP16,Kyoto Optical Instruments,Japan,JPY,Components,Manufacturing,30,450000,3800000,8
+SUP17,Kobe Industrial Packaging,Japan,JPY,Packaging,Operations,45,120000,1400000,6
+SUP18,Yokohama Engineering Labs,Japan,JPY,Services,Operations,30,300000,2400000,5
